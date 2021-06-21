@@ -61,7 +61,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on the_varsity_restaurant .  the varsity is a moderately priced restaurant offering international cuisine .  ['restaurant', 'international']
+1 i am looking for information on the_varsity_restaurant .	the varsity is a moderately priced restaurant offering international cuisine .	['restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -126,7 +126,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on the_varsity_restaurant .  the varsity is a moderately priced restaurant offering international cuisine .  ['restaurant', 'international']
+1 hello , i am looking for information on the_varsity_restaurant .	the varsity is a moderately priced restaurant offering international cuisine .	['restaurant', 'international']
 
 
 #restaurant#
@@ -192,7 +192,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on the_varsity_restaurant .    the varsity is a moderately priced restaurant offering international cuisine .  ['restaurant', 'international']
+1 I ' m looking for some information on the_varsity_restaurant .	the varsity is a moderately priced restaurant offering international cuisine .	['restaurant', 'international']
 
 #hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
@@ -248,7 +248,7 @@
 0 finches_bed_and_breakfast stars 4_star
 0 finches_bed_and_breakfast type hotel
 0 finches_bed_and_breakfast ref u0jt0yz8
-1 i ' m looking for a cheap hotel . alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap  ['cheap', 'alexander_bed_and_breakfast']
+1 i ' m looking for a cheap hotel .	alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap	['cheap', 'alexander_bed_and_breakfast']
 
 
 #hotel#
@@ -305,7 +305,7 @@
 0 finches_bed_and_breakfast stars 4_star
 0 finches_bed_and_breakfast type hotel
 0 finches_bed_and_breakfast ref u0jt0yz8
-1 i need a cheap hotel .    alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap  ['cheap', 'alexander_bed_and_breakfast']
+1 i need a cheap hotel .	alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap	['cheap', 'alexander_bed_and_breakfast']
 
 #hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
@@ -361,7 +361,7 @@
 0 finches_bed_and_breakfast stars 4_star
 0 finches_bed_and_breakfast type hotel
 0 finches_bed_and_breakfast ref u0jt0yz8
-1 can you find me a cheap hotel ?   alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap  ['cheap', 'alexander_bed_and_breakfast']
+1 can you find me a cheap hotel ?	alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap	['cheap', 'alexander_bed_and_breakfast']
 
 #attraction#
 0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
@@ -413,7 +413,7 @@
 0 byard_art postcode cb21sj
 0 byard_art pricerange free
 0 byard_art type museum
-1 can you help me find the_fitzwilliam_museum ? the_fitzwilliam_museum is in the centre , and is located on trumpington_street .    ['the_fitzwilliam_museum', 'trumpington_street', 'centre']
+1 can you help me find the_fitzwilliam_museum ?	the_fitzwilliam_museum is in the centre , and is located on trumpington_street .	['the_fitzwilliam_museum', 'trumpington_street', 'centre']
 
 #attraction#
 0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
@@ -465,7 +465,7 @@
 0 byard_art postcode cb21sj
 0 byard_art pricerange free
 0 byard_art type museum
-1 hello. can you help me find the address of the_fitzwilliam_museum ?   the_fitzwilliam_museum is in the centre , and is located on trumpington_street .    ['the_fitzwilliam_museum', 'trumpington_street', 'centre']
+1 hello. can you help me find the address of the_fitzwilliam_museum ?	the_fitzwilliam_museum is in the centre , and is located on trumpington_street .	['the_fitzwilliam_museum', 'trumpington_street', 'centre']
 
 #attraction#
 0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
@@ -517,4 +517,4 @@
 0 byard_art postcode cb21sj
 0 byard_art pricerange free
 0 byard_art type museum
-1 i am trying to find the_fitzwilliam_museum .  the_fitzwilliam_museum is in the centre , and is located on trumpington_street .    ['the_fitzwilliam_museum', 'trumpington_street', 'centre']
+1 i am trying to find the_fitzwilliam_museum .	the_fitzwilliam_museum is in the centre , and is located on trumpington_street .	['the_fitzwilliam_museum', 'trumpington_street', 'centre']
