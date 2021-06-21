@@ -61,7 +61,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on the_varsity_restaurant .	the varsity is a moderately priced restaurant offering international cuisine .	['restaurant', 'international']
+1 i am looking for information on the_varsity_restaurant .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -126,8 +126,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on the_varsity_restaurant .	the varsity is a moderately priced restaurant offering international cuisine .	['restaurant', 'international']
-
+1 hello , i am looking for information on the_varsity_restaurant .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -192,7 +191,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on the_varsity_restaurant .	the varsity is a moderately priced restaurant offering international cuisine .	['restaurant', 'international']
+1 I ' m looking for some information on the_varsity_restaurant .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
@@ -248,64 +247,7 @@
 0 finches_bed_and_breakfast stars 4_star
 0 finches_bed_and_breakfast type hotel
 0 finches_bed_and_breakfast ref u0jt0yz8
-1 i ' m looking for a cheap hotel .	alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap	['cheap', 'alexander_bed_and_breakfast']
-
-
-#hotel#
-0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
-0 leverton_house address 732-734_newmarket_road
-0 leverton_house area east
-0 leverton_house phone 01223292094
-0 leverton_house postcode cb58rs
-0 leverton_house pricerange moderate
-0 leverton_house stars 2_star
-0 leverton_house type guesthouse
-0 leverton_house ref u0jt0yz8
-0 56_saint_barnabas_road centre 01223525725 cb12de cheap 3_star hotel name alexander_bed_and_breakfast
-0 alexander_bed_and_breakfast address 56_saint_barnabas_road
-0 alexander_bed_and_breakfast area centre
-0 alexander_bed_and_breakfast phone 01223525725
-0 alexander_bed_and_breakfast postcode cb12de
-0 alexander_bed_and_breakfast pricerange cheap
-0 alexander_bed_and_breakfast stars 3_star
-0 alexander_bed_and_breakfast type hotel
-0 53_roseford_road south 01223512596 cb22ha moderate 4_star guesthouse u0jt0yz8 name rosa_'_s_bed_and_breakfast
-0 rosa_'_s_bed_and_breakfast address 53_roseford_road
-0 rosa_'_s_bed_and_breakfast area south
-0 rosa_'_s_bed_and_breakfast phone 01223512596
-0 rosa_'_s_bed_and_breakfast postcode cb22ha
-0 rosa_'_s_bed_and_breakfast pricerange moderate
-0 rosa_'_s_bed_and_breakfast stars 4_star
-0 rosa_'_s_bed_and_breakfast type guesthouse
-0 rosa_'_s_bed_and_breakfast ref u0jt0yz8
-0 710_newmarket_road east 01223575122 cb58rs moderate 4_star hotel u0jt0yz8 name autumn_house
-0 autumn_house address 710_newmarket_road
-0 autumn_house area east
-0 autumn_house phone 01223575122
-0 autumn_house postcode cb58rs
-0 autumn_house pricerange moderate
-0 autumn_house stars 4_star
-0 autumn_house type hotel
-0 autumn_house ref u0jt0yz8
-0 517a_coldham_lane east 01223210353 cb13js expensive 2_star guesthouse u0jt0yz8 name allenbell
-0 allenbell address 517a_coldham_lane
-0 allenbell area east
-0 allenbell phone 01223210353
-0 allenbell postcode cb13js
-0 allenbell pricerange expensive
-0 allenbell stars 2_star
-0 allenbell type guesthouse
-0 allenbell ref u0jt0yz8
-0 144_thornton_road west 01223276653 cb30nd expensive 4_star hotel u0jt0yz8 name finches_bed_and_breakfast
-0 finches_bed_and_breakfast address 144_thornton_road
-0 finches_bed_and_breakfast area west
-0 finches_bed_and_breakfast phone 01223276653
-0 finches_bed_and_breakfast postcode cb30nd
-0 finches_bed_and_breakfast pricerange expensive
-0 finches_bed_and_breakfast stars 4_star
-0 finches_bed_and_breakfast type hotel
-0 finches_bed_and_breakfast ref u0jt0yz8
-1 i need a cheap hotel .	alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap	['cheap', 'alexander_bed_and_breakfast']
+1 i ' m looking for a cheap hotel .	alexander_bed_and_breakfast is a cheap option	['cheap', 'alexander_bed_and_breakfast']
 
 #hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
@@ -361,7 +303,63 @@
 0 finches_bed_and_breakfast stars 4_star
 0 finches_bed_and_breakfast type hotel
 0 finches_bed_and_breakfast ref u0jt0yz8
-1 can you find me a cheap hotel ?	alexander_bed_and_breakfast is a guesthouse east of cambridge center that is cheap	['cheap', 'alexander_bed_and_breakfast']
+1 i need a cheap hotel .	alexander_bed_and_breakfast is a cheap option	['cheap', 'alexander_bed_and_breakfast']
+
+#hotel#
+0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
+0 leverton_house address 732-734_newmarket_road
+0 leverton_house area east
+0 leverton_house phone 01223292094
+0 leverton_house postcode cb58rs
+0 leverton_house pricerange moderate
+0 leverton_house stars 2_star
+0 leverton_house type guesthouse
+0 leverton_house ref u0jt0yz8
+0 56_saint_barnabas_road centre 01223525725 cb12de cheap 3_star hotel name alexander_bed_and_breakfast
+0 alexander_bed_and_breakfast address 56_saint_barnabas_road
+0 alexander_bed_and_breakfast area centre
+0 alexander_bed_and_breakfast phone 01223525725
+0 alexander_bed_and_breakfast postcode cb12de
+0 alexander_bed_and_breakfast pricerange cheap
+0 alexander_bed_and_breakfast stars 3_star
+0 alexander_bed_and_breakfast type hotel
+0 53_roseford_road south 01223512596 cb22ha moderate 4_star guesthouse u0jt0yz8 name rosa_'_s_bed_and_breakfast
+0 rosa_'_s_bed_and_breakfast address 53_roseford_road
+0 rosa_'_s_bed_and_breakfast area south
+0 rosa_'_s_bed_and_breakfast phone 01223512596
+0 rosa_'_s_bed_and_breakfast postcode cb22ha
+0 rosa_'_s_bed_and_breakfast pricerange moderate
+0 rosa_'_s_bed_and_breakfast stars 4_star
+0 rosa_'_s_bed_and_breakfast type guesthouse
+0 rosa_'_s_bed_and_breakfast ref u0jt0yz8
+0 710_newmarket_road east 01223575122 cb58rs moderate 4_star hotel u0jt0yz8 name autumn_house
+0 autumn_house address 710_newmarket_road
+0 autumn_house area east
+0 autumn_house phone 01223575122
+0 autumn_house postcode cb58rs
+0 autumn_house pricerange moderate
+0 autumn_house stars 4_star
+0 autumn_house type hotel
+0 autumn_house ref u0jt0yz8
+0 517a_coldham_lane east 01223210353 cb13js expensive 2_star guesthouse u0jt0yz8 name allenbell
+0 allenbell address 517a_coldham_lane
+0 allenbell area east
+0 allenbell phone 01223210353
+0 allenbell postcode cb13js
+0 allenbell pricerange expensive
+0 allenbell stars 2_star
+0 allenbell type guesthouse
+0 allenbell ref u0jt0yz8
+0 144_thornton_road west 01223276653 cb30nd expensive 4_star hotel u0jt0yz8 name finches_bed_and_breakfast
+0 finches_bed_and_breakfast address 144_thornton_road
+0 finches_bed_and_breakfast area west
+0 finches_bed_and_breakfast phone 01223276653
+0 finches_bed_and_breakfast postcode cb30nd
+0 finches_bed_and_breakfast pricerange expensive
+0 finches_bed_and_breakfast stars 4_star
+0 finches_bed_and_breakfast type hotel
+0 finches_bed_and_breakfast ref u0jt0yz8
+1 can you find me a cheap hotel ?	alexander_bed_and_breakfast is a cheap option	['cheap', 'alexander_bed_and_breakfast']
 
 #attraction#
 0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
