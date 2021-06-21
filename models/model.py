@@ -401,6 +401,8 @@ class DFNet(nn.Module):
             R_wea_score = TP_wea / float(TP_wea + FN_wea) if (TP_wea + FN_wea) != 0 else 0
 
             F1_score = self.compute_F1(P_score, R_score)
+            print("P-micro SCORE:\t{}".format(P_score))
+            print("R-micro SCORE:\t{}".format(R_score))
             print("F1-micro SCORE:\t{}".format(F1_score))
             print("F1-micro-sche SCORE:\t{}".format(self.compute_F1(P_sche_score, R_sche_score)))
             print("F1-micro-wea SCORE:\t{}".format(self.compute_F1(P_wea_score, R_wea_score)))
@@ -427,6 +429,8 @@ class DFNet(nn.Module):
             R_hotel_score = TP_hotel / float(TP_hotel + FN_hotel) if (TP_hotel + FN_hotel) != 0 else 0
 
             F1_score = self.compute_F1(P_score, R_score)
+            print("P-micro SCORE:\t{}".format(P_score))
+            print("R-micro SCORE:\t{}".format(R_score))
             print("F1-micro SCORE:\t{}".format(F1_score))
             print("F1-micro-restaurant SCORE:\t{}".format(self.compute_F1(P_restaurant_score, R_restaurant_score)))
             print("F1-micro-attraction SCORE:\t{}".format(self.compute_F1(P_attraction_score, R_attraction_score)))

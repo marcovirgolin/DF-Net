@@ -140,6 +140,7 @@ def prepare_data_seq(batch_size=100):
     file_train = 'data/MULTIWOZ2.1/train.txt'
     file_dev = 'data/MULTIWOZ2.1/dev.txt'
     file_test = 'data/MULTIWOZ2.1/test.txt'
+    #file_test = 'data/KVR/our_test.txt'
 
     pair_train, train_max_len = read_langs(file_train, max_line=None)
     pair_dev, dev_max_len = read_langs(file_dev, max_line=None)
