@@ -564,3 +564,72 @@
 0 boston sunday low 80f
 0 boston sunday high 100f
 1 what is the weather like on friday in menlo_park ?	in menlo_park this friday it will be cloudy between 90f - 100f	['menlo_park', 'friday', '100f', '90f', 'cloudy']
+
+#schedule#
+0 swimming_activity time 1pm
+0 swimming_activity date monday
+0 football_activity time 11am
+0 football_activity date thursday
+0 lab_appointment time 11am
+0 lab_appointment date friday
+0 medicine time 1pm
+0 medicine date friday
+0 meeting time 7pm
+0 meeting date monday
+0 meeting party sales_team
+0 meeting room conference_room_50
+0 meeting agenda discuss_the_company_picnic
+0 conference time 10am
+0 conference date monday
+0 conference party executive_team
+0 conference room conference_room_102
+0 conference agenda discuss_the_company_picnic
+0 dinner time 8pm
+0 dinner date saturday
+1 tell me the time of today s meeting	the meeting is at 7pm	['7pm', 'meeting']
+
+#schedule#
+0 swimming_activity time 1pm
+0 swimming_activity date monday
+0 football_activity time 11am
+0 football_activity date thursday
+0 lab_appointment time 11am
+0 lab_appointment date friday
+0 medicine time 1pm
+0 medicine date friday
+0 meeting time 7pm
+0 meeting date monday
+0 meeting party sales_team
+0 meeting room conference_room_50
+0 meeting agenda discuss_the_company_picnic
+0 conference time 10am
+0 conference date monday
+0 conference party executive_team
+0 conference room conference_room_102
+0 conference agenda discuss_the_company_picnic
+0 dinner time 8pm
+0 dinner date saturday
+1 when is my meeting today	the meeting is at 7pm	['7pm', 'meeting']
+
+#schedule#
+0 swimming_activity time 1pm
+0 swimming_activity date monday
+0 football_activity time 11am
+0 football_activity date thursday
+0 lab_appointment time 11am
+0 lab_appointment date friday
+0 medicine time 1pm
+0 medicine date friday
+0 meeting time 7pm
+0 meeting date monday
+0 meeting party sales_team
+0 meeting room conference_room_50
+0 meeting agenda discuss_the_company_picnic
+0 conference time 10am
+0 conference date monday
+0 conference party executive_team
+0 conference room conference_room_102
+0 conference agenda discuss_the_company_picnic
+0 dinner time 8pm
+0 dinner date saturday
+1 when do i have today s meeting planned	the meeting is at 7pm	['7pm', 'meeting']
