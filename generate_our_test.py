@@ -292,7 +292,7 @@ def generate_alternatives_schedule(orig_kb_lines, entities_in_use, utterances):
         alt_response = response.replace(event, alt_event).replace(time, alt_time)
 
         alternative_line = "\t".join([alt_request, alt_response, str(alt_entities)])
-        alternative_example = "#weather#\n"+"".join(orig_kb_lines)+alternative_line
+        alternative_example = "#schedule#\n"+"".join(orig_kb_lines)+alternative_line
         alternatives.append(alternative_example)
 
     return alternatives

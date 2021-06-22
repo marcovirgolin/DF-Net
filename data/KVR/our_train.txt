@@ -141,7 +141,7 @@
 0 downtown_chicago tuesday windy
 0 downtown_chicago tuesday low 60f
 0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday raining
+0 downtown_chicago wednesday rain
 0 downtown_chicago wednesday low 40f
 0 downtown_chicago wednesday high 60f
 0 downtown_chicago thursday hot
@@ -150,10 +150,10 @@
 0 downtown_chicago friday foggy
 0 downtown_chicago friday low 80f
 0 downtown_chicago friday high 90f
-0 downtown_chicago saturday raining
+0 downtown_chicago saturday rain
 0 downtown_chicago saturday low 70f
 0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday raining
+0 downtown_chicago sunday rain
 0 downtown_chicago sunday low 70f
 0 downtown_chicago sunday high 80f
 0 los_angeles monday overcast
@@ -231,13 +231,13 @@
 0 san_francisco thursday clear_skies
 0 san_francisco thursday low 80f
 0 san_francisco thursday high 100f
-0 san_francisco friday raining
+0 san_francisco friday rain
 0 san_francisco friday low 40f
 0 san_francisco friday high 60f
 0 san_francisco saturday snow
 0 san_francisco saturday low 80f
 0 san_francisco saturday high 90f
-0 san_francisco sunday raining
+0 san_francisco sunday rain
 0 san_francisco sunday low 30f
 0 san_francisco sunday high 40f
 0 boston monday hot
@@ -292,7 +292,7 @@
 0 downtown_chicago tuesday windy
 0 downtown_chicago tuesday low 60f
 0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday raining
+0 downtown_chicago wednesday rain
 0 downtown_chicago wednesday low 40f
 0 downtown_chicago wednesday high 60f
 0 downtown_chicago thursday hot
@@ -301,10 +301,10 @@
 0 downtown_chicago friday foggy
 0 downtown_chicago friday low 80f
 0 downtown_chicago friday high 90f
-0 downtown_chicago saturday raining
+0 downtown_chicago saturday rain
 0 downtown_chicago saturday low 70f
 0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday raining
+0 downtown_chicago sunday rain
 0 downtown_chicago sunday low 70f
 0 downtown_chicago sunday high 80f
 0 los_angeles monday overcast
@@ -382,13 +382,13 @@
 0 san_francisco thursday clear_skies
 0 san_francisco thursday low 80f
 0 san_francisco thursday high 100f
-0 san_francisco friday raining
+0 san_francisco friday rain
 0 san_francisco friday low 40f
 0 san_francisco friday high 60f
 0 san_francisco saturday snow
 0 san_francisco saturday low 80f
 0 san_francisco saturday high 90f
-0 san_francisco sunday raining
+0 san_francisco sunday rain
 0 san_francisco sunday low 30f
 0 san_francisco sunday high 40f
 0 boston monday hot
@@ -443,7 +443,7 @@
 0 downtown_chicago tuesday windy
 0 downtown_chicago tuesday low 60f
 0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday raining
+0 downtown_chicago wednesday rain
 0 downtown_chicago wednesday low 40f
 0 downtown_chicago wednesday high 60f
 0 downtown_chicago thursday hot
@@ -452,10 +452,10 @@
 0 downtown_chicago friday foggy
 0 downtown_chicago friday low 80f
 0 downtown_chicago friday high 90f
-0 downtown_chicago saturday raining
+0 downtown_chicago saturday rain
 0 downtown_chicago saturday low 70f
 0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday raining
+0 downtown_chicago sunday rain
 0 downtown_chicago sunday low 70f
 0 downtown_chicago sunday high 80f
 0 los_angeles monday overcast
@@ -533,13 +533,13 @@
 0 san_francisco thursday clear_skies
 0 san_francisco thursday low 80f
 0 san_francisco thursday high 100f
-0 san_francisco friday raining
+0 san_francisco friday rain
 0 san_francisco friday low 40f
 0 san_francisco friday high 60f
 0 san_francisco saturday snow
 0 san_francisco saturday low 80f
 0 san_francisco saturday high 90f
-0 san_francisco sunday raining
+0 san_francisco sunday rain
 0 san_francisco sunday low 30f
 0 san_francisco sunday high 40f
 0 boston monday hot
@@ -572,8 +572,8 @@
 0 football_activity date thursday
 0 lab_appointment time 11am
 0 lab_appointment date friday
-0 medicine time 1pm
-0 medicine date friday
+0 taking medicine time 1pm
+0 taking medicine date friday
 0 meeting time 7pm
 0 meeting date monday
 0 meeting party sales_team
@@ -595,8 +595,8 @@
 0 football_activity date thursday
 0 lab_appointment time 11am
 0 lab_appointment date friday
-0 medicine time 1pm
-0 medicine date friday
+0 taking medicine time 1pm
+0 taking medicine date friday
 0 meeting time 7pm
 0 meeting date monday
 0 meeting party sales_team
@@ -618,8 +618,8 @@
 0 football_activity date thursday
 0 lab_appointment time 11am
 0 lab_appointment date friday
-0 medicine time 1pm
-0 medicine date friday
+0 taking medicine time 1pm
+0 taking medicine date friday
 0 meeting time 7pm
 0 meeting date monday
 0 meeting party sales_team

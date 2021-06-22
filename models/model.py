@@ -289,7 +289,7 @@ class DFNet(nn.Module):
                                                                                          pred_sent.split(),
                                                                                          global_entity_list,
                                                                                          data_dev['kb_arr_plain'][bi])
-                                                                                         
+
                     P_pred += single_tp / ( single_tp + single_fp + 1e-10) if (single_tp + single_fp) != 0 else 0 
                     R_pred += single_tp / ( single_tp + single_fn + 1e-10) if (single_tp + single_fn) != 0 else 0 
                     F1_pred += single_f1
