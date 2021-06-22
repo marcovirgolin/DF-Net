@@ -208,6 +208,7 @@ class DFNet(nn.Module):
         ids = []
         acc, total = 0, 0
         if args['dataset'] == 'kvr':
+            P_pred, R_pred = 0,0
             F1_pred, F1_cal_pred, F1_nav_pred, F1_wet_pred = 0, 0, 0, 0
             F1_count, F1_cal_count, F1_nav_count, F1_wet_count = 0, 0, 0, 0
             TP_all, FP_all, FN_all = 0, 0, 0
@@ -216,6 +217,7 @@ class DFNet(nn.Module):
             TP_wea, FP_wea, FN_wea = 0, 0, 0
             TP_nav, FP_nav, FN_nav = 0, 0, 0
         elif args['dataset'] == 'woz':
+            P_pred, R_pred = 0,0
             F1_pred, F1_police_pred, F1_restaurant_pred, F1_hospital_pred, F1_attraction_pred, F1_hotel_pred = 0, 0, 0, 0, 0, 0
             F1_count, F1_police_count, F1_restaurant_count, F1_hospital_count, F1_attraction_count, F1_hotel_count = 0, 0, 0, 0, 0, 0
             TP_all, FP_all, FN_all = 0, 0, 0
@@ -287,6 +289,9 @@ class DFNet(nn.Module):
                                                                                          pred_sent.split(),
                                                                                          global_entity_list,
                                                                                          data_dev['kb_arr_plain'][bi])
+                                                                                         
+                    P_pred += single_tp / ( single_tp + single_fp + 1e-10) if (single_tp + single_fp) != 0 else 0 
+                    R_pred += single_tp / ( single_tp + single_fn + 1e-10) if (single_tp + single_fn) != 0 else 0 
                     F1_pred += single_f1
                     F1_count += count
                     TP_all += single_tp
@@ -329,6 +334,8 @@ class DFNet(nn.Module):
                                                                                          pred_sent.split(),
                                                                                          global_entity_list,
                                                                                          data_dev['kb_arr_plain'][bi])
+                    P_pred += single_tp / ( single_tp + single_fp + 1e-10) if (single_tp + single_fp) != 0 else 0 
+                    R_pred += single_tp / ( single_tp + single_fn + 1e-10) if (single_tp + single_fn) != 0 else 0 
                     F1_pred += single_f1
                     F1_count += count
                     TP_all += single_tp
@@ -340,6 +347,7 @@ class DFNet(nn.Module):
                         pred_sent.split(),
                         global_entity_list,
                         data_dev['kb_arr_plain'][bi])
+                    
                     F1_restaurant_pred += single_f1
                     F1_restaurant_count += count
                     TP_restaurant += single_tp
@@ -351,6 +359,7 @@ class DFNet(nn.Module):
                         pred_sent.split(),
                         global_entity_list,
                         data_dev['kb_arr_plain'][bi])
+                    
                     F1_attraction_pred += single_f1
                     F1_attraction_count += count
                     TP_attraction += single_tp
@@ -386,6 +395,8 @@ class DFNet(nn.Module):
 
         if args['dataset'] == 'kvr':
             print("BLEU SCORE:\t" + str(bleu_score))
+            print("P-macro SCORE:\t{}".format(P_pred / float(F1_count)))
+            print("R-macro SCORE:\t{}".format(R_pred / float(F1_count)))
             print("F1-macro SCORE:\t{}".format(F1_pred / float(F1_count)))
             print("F1-macro-sche SCORE:\t{}".format(F1_cal_pred / float(F1_cal_count)))
             print("F1-macro-wea SCORE:\t{}".format(F1_wet_pred / float(F1_wet_count)))
@@ -409,6 +420,8 @@ class DFNet(nn.Module):
             print("F1-micro-nav SCORE:\t{}".format(self.compute_F1(P_nav_score, R_nav_score)))
         elif args['dataset'] == 'woz':
             print("BLEU SCORE:\t" + str(bleu_score))
+            print("P-macro SCORE:\t{}".format(P_pred / float(F1_count)))
+            print("R-macro SCORE:\t{}".format(R_pred / float(F1_count)))
             print("F1-macro SCORE:\t{}".format(F1_pred / float(F1_count)))
             print("F1-macro-restaurant SCORE:\t{}".format(F1_restaurant_pred / float(F1_restaurant_count)))
             print("F1-macro-attraction SCORE:\t{}".format(F1_attraction_pred / float(F1_attraction_count)))
