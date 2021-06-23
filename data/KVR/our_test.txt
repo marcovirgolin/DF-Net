@@ -224,44 +224,6 @@
 0 panda_express traffic_info moderate_traffic
 0 panda_express poi_type chinese_restaurant
 0 panda_express address 842_arrowhead_way
-1 what coffee_or_tea_place are here ?	starbucks is 1_miles away	['1_miles', 'starbucks']
-
-#navigate#
-0 4_miles moderate_traffic coffee_or_tea_place poi philz
-0 philz distance 4_miles
-0 philz traffic_info moderate_traffic
-0 philz poi_type coffee_or_tea_place
-0 philz address 583_alester_ave
-0 6_miles heavy_traffic rest_stop poi four_seasons
-0 four_seasons distance 6_miles
-0 four_seasons traffic_info heavy_traffic
-0 four_seasons poi_type rest_stop
-0 four_seasons address 465_arcadia_pl
-0 4_miles moderate_traffic chinese_restaurant poi chef_chu_s
-0 chef_chu_s distance 4_miles
-0 chef_chu_s traffic_info moderate_traffic
-0 chef_chu_s poi_type chinese_restaurant
-0 chef_chu_s address 593_arrowhead_way
-0 1_miles moderate_traffic coffee_or_tea_place poi starbucks
-0 starbucks distance 1_miles
-0 starbucks traffic_info moderate_traffic
-0 starbucks poi_type coffee_or_tea_place
-0 starbucks address 792_bedoin_street
-0 3_miles moderate_traffic chinese_restaurant poi tai_pan
-0 tai_pan distance 3_miles
-0 tai_pan traffic_info moderate_traffic
-0 tai_pan poi_type chinese_restaurant
-0 tai_pan address 830_almanor_ln
-0 4_miles heavy_traffic hospital poi palo_alto_medical_foundation
-0 palo_alto_medical_foundation distance 4_miles
-0 palo_alto_medical_foundation traffic_info heavy_traffic
-0 palo_alto_medical_foundation poi_type hospital
-0 palo_alto_medical_foundation address 611_ames_ave
-0 3_miles moderate_traffic chinese_restaurant poi panda_express
-0 panda_express distance 3_miles
-0 panda_express traffic_info moderate_traffic
-0 panda_express poi_type chinese_restaurant
-0 panda_express address 842_arrowhead_way
 1 where is the nearest coffee_or_tea_place ?	starbucks is 1_miles away	['1_miles', 'starbucks']
 
 #navigate#
@@ -452,44 +414,6 @@
 0 panda_express traffic_info moderate_traffic
 0 panda_express poi_type chinese_restaurant
 0 panda_express address 842_arrowhead_way
-1 where is the nearest chinese_restaurant ?	tai_pan is 1_miles away	['1_miles', 'tai_pan']
-
-#navigate#
-0 4_miles moderate_traffic coffee_or_tea_place poi philz
-0 philz distance 4_miles
-0 philz traffic_info moderate_traffic
-0 philz poi_type coffee_or_tea_place
-0 philz address 583_alester_ave
-0 6_miles heavy_traffic rest_stop poi four_seasons
-0 four_seasons distance 6_miles
-0 four_seasons traffic_info heavy_traffic
-0 four_seasons poi_type rest_stop
-0 four_seasons address 465_arcadia_pl
-0 4_miles moderate_traffic chinese_restaurant poi chef_chu_s
-0 chef_chu_s distance 4_miles
-0 chef_chu_s traffic_info moderate_traffic
-0 chef_chu_s poi_type chinese_restaurant
-0 chef_chu_s address 593_arrowhead_way
-0 2_miles moderate_traffic coffee_or_tea_place poi starbucks
-0 starbucks distance 2_miles
-0 starbucks traffic_info moderate_traffic
-0 starbucks poi_type coffee_or_tea_place
-0 starbucks address 792_bedoin_street
-0 1_miles moderate_traffic chinese_restaurant poi tai_pan
-0 tai_pan distance 1_miles
-0 tai_pan traffic_info moderate_traffic
-0 tai_pan poi_type chinese_restaurant
-0 tai_pan address 830_almanor_ln
-0 4_miles heavy_traffic hospital poi palo_alto_medical_foundation
-0 palo_alto_medical_foundation distance 4_miles
-0 palo_alto_medical_foundation traffic_info heavy_traffic
-0 palo_alto_medical_foundation poi_type hospital
-0 palo_alto_medical_foundation address 611_ames_ave
-0 3_miles moderate_traffic chinese_restaurant poi panda_express
-0 panda_express distance 3_miles
-0 panda_express traffic_info moderate_traffic
-0 panda_express poi_type chinese_restaurant
-0 panda_express address 842_arrowhead_way
 1 i need to find the shortest route to the chinese_restaurant	tai_pan is 1_miles away	['1_miles', 'tai_pan']
 
 #navigate#
@@ -643,648 +567,6 @@
 0 panda_express poi_type chinese_restaurant
 0 panda_express address 842_arrowhead_way
 1 i need to find the shortest route to the chinese_restaurant	panda_express is 1_miles away	['1_miles', 'panda_express']
-
-#navigate#
-0 4_miles moderate_traffic coffee_or_tea_place poi philz
-0 philz distance 4_miles
-0 philz traffic_info moderate_traffic
-0 philz poi_type coffee_or_tea_place
-0 philz address 583_alester_ave
-0 6_miles heavy_traffic rest_stop poi four_seasons
-0 four_seasons distance 6_miles
-0 four_seasons traffic_info heavy_traffic
-0 four_seasons poi_type rest_stop
-0 four_seasons address 465_arcadia_pl
-0 1_miles moderate_traffic chinese_restaurant poi chef_chu_s
-0 chef_chu_s distance 1_miles
-0 chef_chu_s traffic_info moderate_traffic
-0 chef_chu_s poi_type chinese_restaurant
-0 chef_chu_s address 593_arrowhead_way
-0 2_miles moderate_traffic coffee_or_tea_place poi starbucks
-0 starbucks distance 2_miles
-0 starbucks traffic_info moderate_traffic
-0 starbucks poi_type coffee_or_tea_place
-0 starbucks address 792_bedoin_street
-0 3_miles moderate_traffic chinese_restaurant poi tai_pan
-0 tai_pan distance 3_miles
-0 tai_pan traffic_info moderate_traffic
-0 tai_pan poi_type chinese_restaurant
-0 tai_pan address 830_almanor_ln
-0 4_miles heavy_traffic hospital poi palo_alto_medical_foundation
-0 palo_alto_medical_foundation distance 4_miles
-0 palo_alto_medical_foundation traffic_info heavy_traffic
-0 palo_alto_medical_foundation poi_type hospital
-0 palo_alto_medical_foundation address 611_ames_ave
-0 3_miles moderate_traffic chinese_restaurant poi panda_express
-0 panda_express distance 3_miles
-0 panda_express traffic_info moderate_traffic
-0 panda_express poi_type chinese_restaurant
-0 panda_express address 842_arrowhead_way
-1 i need to find the shortest route to the chinese_restaurant	chef_chu_s is 1_miles away	['1_miles', 'chef_chu_s']
-
-#weather#
-0 today monday
-0 cleveland monday snow
-0 cleveland monday low 40f
-0 cleveland monday high 60f
-0 cleveland tuesday overcast
-0 cleveland tuesday low 70f
-0 cleveland tuesday high 90f
-0 cleveland wednesday cloudy
-0 cleveland wednesday low 40f
-0 cleveland wednesday high 60f
-0 cleveland thursday cloudy
-0 cleveland thursday low 80f
-0 cleveland thursday high 90f
-0 cleveland friday cloudy
-0 cleveland friday low 30f
-0 cleveland friday high 40f
-0 cleveland saturday windy
-0 cleveland saturday low 40f
-0 cleveland saturday high 60f
-0 cleveland sunday cloudy
-0 cleveland sunday low 60f
-0 cleveland sunday high 80f
-0 downtown_chicago monday cloudy
-0 downtown_chicago monday low 40f
-0 downtown_chicago monday high 60f
-0 downtown_chicago tuesday windy
-0 downtown_chicago tuesday low 60f
-0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday rain
-0 downtown_chicago wednesday low 40f
-0 downtown_chicago wednesday high 60f
-0 downtown_chicago thursday hot
-0 downtown_chicago thursday low 70f
-0 downtown_chicago thursday high 90f
-0 downtown_chicago friday foggy
-0 downtown_chicago friday low 80f
-0 downtown_chicago friday high 90f
-0 downtown_chicago saturday rain
-0 downtown_chicago saturday low 70f
-0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday rain
-0 downtown_chicago sunday low 70f
-0 downtown_chicago sunday high 80f
-0 los_angeles monday overcast
-0 los_angeles monday low 40f
-0 los_angeles monday high 60f
-0 los_angeles tuesday warm
-0 los_angeles tuesday low 90f
-0 los_angeles tuesday high 100f
-0 los_angeles wednesday hot
-0 los_angeles wednesday low 90f
-0 los_angeles wednesday high 100f
-0 los_angeles thursday hot
-0 los_angeles thursday low 90f
-0 los_angeles thursday high 100f
-0 los_angeles friday windy
-0 los_angeles friday low 60f
-0 los_angeles friday high 80f
-0 los_angeles saturday windy
-0 los_angeles saturday low 60f
-0 los_angeles saturday high 80f
-0 los_angeles sunday foggy
-0 los_angeles sunday low 80f
-0 los_angeles sunday high 90f
-0 manhattan monday overcast
-0 manhattan monday low 30f
-0 manhattan monday high 40f
-0 manhattan tuesday rain
-0 manhattan tuesday low 80f
-0 manhattan tuesday high 90f
-0 manhattan wednesday clear_skies
-0 manhattan wednesday low 90f
-0 manhattan wednesday high 100f
-0 manhattan thursday clear_skies
-0 manhattan thursday low 80f
-0 manhattan thursday high 100f
-0 manhattan friday windy
-0 manhattan friday low 90f
-0 manhattan friday high 100f
-0 manhattan saturday overcast
-0 manhattan saturday low 70f
-0 manhattan saturday high 90f
-0 manhattan sunday overcast
-0 manhattan sunday low 30f
-0 manhattan sunday high 40f
-0 menlo_park monday snow
-0 menlo_park monday low 40f
-0 menlo_park monday high 60f
-0 menlo_park tuesday snow
-0 menlo_park tuesday low 60f
-0 menlo_park tuesday high 80f
-0 menlo_park wednesday warm
-0 menlo_park wednesday low 90f
-0 menlo_park wednesday high 100f
-0 menlo_park thursday rain
-0 menlo_park thursday low 90f
-0 menlo_park thursday high 100f
-0 menlo_park friday cloudy
-0 menlo_park friday low 90f
-0 menlo_park friday high 100f
-0 menlo_park saturday warm
-0 menlo_park saturday low 80f
-0 menlo_park saturday high 100f
-0 menlo_park sunday windy
-0 menlo_park sunday low 70f
-0 menlo_park sunday high 80f
-0 san_francisco monday cloudy
-0 san_francisco monday low 30f
-0 san_francisco monday high 40f
-0 san_francisco tuesday clear_skies
-0 san_francisco tuesday low 30f
-0 san_francisco tuesday high 40f
-0 san_francisco wednesday overcast
-0 san_francisco wednesday low 40f
-0 san_francisco wednesday high 60f
-0 san_francisco thursday clear_skies
-0 san_francisco thursday low 80f
-0 san_francisco thursday high 100f
-0 san_francisco friday rain
-0 san_francisco friday low 40f
-0 san_francisco friday high 60f
-0 san_francisco saturday snow
-0 san_francisco saturday low 80f
-0 san_francisco saturday high 90f
-0 san_francisco sunday rain
-0 san_francisco sunday low 30f
-0 san_francisco sunday high 40f
-0 boston monday hot
-0 boston monday low 60f
-0 boston monday high 80f
-0 boston tuesday cloudy
-0 boston tuesday low 40f
-0 boston tuesday high 60f
-0 boston wednesday overcast
-0 boston wednesday low 60f
-0 boston wednesday high 70f
-0 boston thursday windy
-0 boston thursday low 60f
-0 boston thursday high 80f
-0 boston friday hot
-0 boston friday low 40f
-0 boston friday high 60f
-0 boston saturday windy
-0 boston saturday low 90f
-0 boston saturday high 100f
-0 boston sunday clear_skies
-0 boston sunday low 80f
-0 boston sunday high 100f
-1 what s the temperature going to be like on saturday in san_francisco ?	in san_francisco this saturday it will be snow between 80f - 80f	['san_francisco', 'saturday', '90f', '80f', 'snow']
-
-#weather#
-0 today monday
-0 cleveland monday snow
-0 cleveland monday low 40f
-0 cleveland monday high 60f
-0 cleveland tuesday overcast
-0 cleveland tuesday low 70f
-0 cleveland tuesday high 90f
-0 cleveland wednesday cloudy
-0 cleveland wednesday low 40f
-0 cleveland wednesday high 60f
-0 cleveland thursday cloudy
-0 cleveland thursday low 80f
-0 cleveland thursday high 90f
-0 cleveland friday cloudy
-0 cleveland friday low 30f
-0 cleveland friday high 40f
-0 cleveland saturday windy
-0 cleveland saturday low 40f
-0 cleveland saturday high 60f
-0 cleveland sunday cloudy
-0 cleveland sunday low 60f
-0 cleveland sunday high 80f
-0 downtown_chicago monday cloudy
-0 downtown_chicago monday low 40f
-0 downtown_chicago monday high 60f
-0 downtown_chicago tuesday windy
-0 downtown_chicago tuesday low 60f
-0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday rain
-0 downtown_chicago wednesday low 40f
-0 downtown_chicago wednesday high 60f
-0 downtown_chicago thursday hot
-0 downtown_chicago thursday low 70f
-0 downtown_chicago thursday high 90f
-0 downtown_chicago friday foggy
-0 downtown_chicago friday low 80f
-0 downtown_chicago friday high 90f
-0 downtown_chicago saturday rain
-0 downtown_chicago saturday low 70f
-0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday rain
-0 downtown_chicago sunday low 70f
-0 downtown_chicago sunday high 80f
-0 los_angeles monday overcast
-0 los_angeles monday low 40f
-0 los_angeles monday high 60f
-0 los_angeles tuesday warm
-0 los_angeles tuesday low 90f
-0 los_angeles tuesday high 100f
-0 los_angeles wednesday hot
-0 los_angeles wednesday low 90f
-0 los_angeles wednesday high 100f
-0 los_angeles thursday hot
-0 los_angeles thursday low 90f
-0 los_angeles thursday high 100f
-0 los_angeles friday windy
-0 los_angeles friday low 60f
-0 los_angeles friday high 80f
-0 los_angeles saturday windy
-0 los_angeles saturday low 60f
-0 los_angeles saturday high 80f
-0 los_angeles sunday foggy
-0 los_angeles sunday low 80f
-0 los_angeles sunday high 90f
-0 manhattan monday overcast
-0 manhattan monday low 30f
-0 manhattan monday high 40f
-0 manhattan tuesday rain
-0 manhattan tuesday low 80f
-0 manhattan tuesday high 90f
-0 manhattan wednesday clear_skies
-0 manhattan wednesday low 90f
-0 manhattan wednesday high 100f
-0 manhattan thursday clear_skies
-0 manhattan thursday low 80f
-0 manhattan thursday high 100f
-0 manhattan friday windy
-0 manhattan friday low 90f
-0 manhattan friday high 100f
-0 manhattan saturday overcast
-0 manhattan saturday low 70f
-0 manhattan saturday high 90f
-0 manhattan sunday overcast
-0 manhattan sunday low 30f
-0 manhattan sunday high 40f
-0 menlo_park monday snow
-0 menlo_park monday low 40f
-0 menlo_park monday high 60f
-0 menlo_park tuesday snow
-0 menlo_park tuesday low 60f
-0 menlo_park tuesday high 80f
-0 menlo_park wednesday warm
-0 menlo_park wednesday low 90f
-0 menlo_park wednesday high 100f
-0 menlo_park thursday rain
-0 menlo_park thursday low 90f
-0 menlo_park thursday high 100f
-0 menlo_park friday cloudy
-0 menlo_park friday low 90f
-0 menlo_park friday high 100f
-0 menlo_park saturday warm
-0 menlo_park saturday low 80f
-0 menlo_park saturday high 100f
-0 menlo_park sunday windy
-0 menlo_park sunday low 70f
-0 menlo_park sunday high 80f
-0 san_francisco monday cloudy
-0 san_francisco monday low 30f
-0 san_francisco monday high 40f
-0 san_francisco tuesday clear_skies
-0 san_francisco tuesday low 30f
-0 san_francisco tuesday high 40f
-0 san_francisco wednesday overcast
-0 san_francisco wednesday low 40f
-0 san_francisco wednesday high 60f
-0 san_francisco thursday clear_skies
-0 san_francisco thursday low 80f
-0 san_francisco thursday high 100f
-0 san_francisco friday rain
-0 san_francisco friday low 40f
-0 san_francisco friday high 60f
-0 san_francisco saturday snow
-0 san_francisco saturday low 80f
-0 san_francisco saturday high 90f
-0 san_francisco sunday rain
-0 san_francisco sunday low 30f
-0 san_francisco sunday high 40f
-0 boston monday hot
-0 boston monday low 60f
-0 boston monday high 80f
-0 boston tuesday cloudy
-0 boston tuesday low 40f
-0 boston tuesday high 60f
-0 boston wednesday overcast
-0 boston wednesday low 60f
-0 boston wednesday high 70f
-0 boston thursday windy
-0 boston thursday low 60f
-0 boston thursday high 80f
-0 boston friday hot
-0 boston friday low 40f
-0 boston friday high 60f
-0 boston saturday windy
-0 boston saturday low 90f
-0 boston saturday high 100f
-0 boston sunday clear_skies
-0 boston sunday low 80f
-0 boston sunday high 100f
-1 what s the temperature going to be like on friday in san_francisco ?	in san_francisco this friday it will be rain between 40f - 60f	['san_francisco', 'friday', '60f', '40f', 'rain']
-
-#weather#
-0 today monday
-0 cleveland monday snow
-0 cleveland monday low 40f
-0 cleveland monday high 60f
-0 cleveland tuesday overcast
-0 cleveland tuesday low 70f
-0 cleveland tuesday high 90f
-0 cleveland wednesday cloudy
-0 cleveland wednesday low 40f
-0 cleveland wednesday high 60f
-0 cleveland thursday cloudy
-0 cleveland thursday low 80f
-0 cleveland thursday high 90f
-0 cleveland friday cloudy
-0 cleveland friday low 30f
-0 cleveland friday high 40f
-0 cleveland saturday windy
-0 cleveland saturday low 40f
-0 cleveland saturday high 60f
-0 cleveland sunday cloudy
-0 cleveland sunday low 60f
-0 cleveland sunday high 80f
-0 downtown_chicago monday cloudy
-0 downtown_chicago monday low 40f
-0 downtown_chicago monday high 60f
-0 downtown_chicago tuesday windy
-0 downtown_chicago tuesday low 60f
-0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday rain
-0 downtown_chicago wednesday low 40f
-0 downtown_chicago wednesday high 60f
-0 downtown_chicago thursday hot
-0 downtown_chicago thursday low 70f
-0 downtown_chicago thursday high 90f
-0 downtown_chicago friday foggy
-0 downtown_chicago friday low 80f
-0 downtown_chicago friday high 90f
-0 downtown_chicago saturday rain
-0 downtown_chicago saturday low 70f
-0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday rain
-0 downtown_chicago sunday low 70f
-0 downtown_chicago sunday high 80f
-0 los_angeles monday overcast
-0 los_angeles monday low 40f
-0 los_angeles monday high 60f
-0 los_angeles tuesday warm
-0 los_angeles tuesday low 90f
-0 los_angeles tuesday high 100f
-0 los_angeles wednesday hot
-0 los_angeles wednesday low 90f
-0 los_angeles wednesday high 100f
-0 los_angeles thursday hot
-0 los_angeles thursday low 90f
-0 los_angeles thursday high 100f
-0 los_angeles friday windy
-0 los_angeles friday low 60f
-0 los_angeles friday high 80f
-0 los_angeles saturday windy
-0 los_angeles saturday low 60f
-0 los_angeles saturday high 80f
-0 los_angeles sunday foggy
-0 los_angeles sunday low 80f
-0 los_angeles sunday high 90f
-0 manhattan monday overcast
-0 manhattan monday low 30f
-0 manhattan monday high 40f
-0 manhattan tuesday rain
-0 manhattan tuesday low 80f
-0 manhattan tuesday high 90f
-0 manhattan wednesday clear_skies
-0 manhattan wednesday low 90f
-0 manhattan wednesday high 100f
-0 manhattan thursday clear_skies
-0 manhattan thursday low 80f
-0 manhattan thursday high 100f
-0 manhattan friday windy
-0 manhattan friday low 90f
-0 manhattan friday high 100f
-0 manhattan saturday overcast
-0 manhattan saturday low 70f
-0 manhattan saturday high 90f
-0 manhattan sunday overcast
-0 manhattan sunday low 30f
-0 manhattan sunday high 40f
-0 menlo_park monday snow
-0 menlo_park monday low 40f
-0 menlo_park monday high 60f
-0 menlo_park tuesday snow
-0 menlo_park tuesday low 60f
-0 menlo_park tuesday high 80f
-0 menlo_park wednesday warm
-0 menlo_park wednesday low 90f
-0 menlo_park wednesday high 100f
-0 menlo_park thursday rain
-0 menlo_park thursday low 90f
-0 menlo_park thursday high 100f
-0 menlo_park friday cloudy
-0 menlo_park friday low 90f
-0 menlo_park friday high 100f
-0 menlo_park saturday warm
-0 menlo_park saturday low 80f
-0 menlo_park saturday high 100f
-0 menlo_park sunday windy
-0 menlo_park sunday low 70f
-0 menlo_park sunday high 80f
-0 san_francisco monday cloudy
-0 san_francisco monday low 30f
-0 san_francisco monday high 40f
-0 san_francisco tuesday clear_skies
-0 san_francisco tuesday low 30f
-0 san_francisco tuesday high 40f
-0 san_francisco wednesday overcast
-0 san_francisco wednesday low 40f
-0 san_francisco wednesday high 60f
-0 san_francisco thursday clear_skies
-0 san_francisco thursday low 80f
-0 san_francisco thursday high 100f
-0 san_francisco friday rain
-0 san_francisco friday low 40f
-0 san_francisco friday high 60f
-0 san_francisco saturday snow
-0 san_francisco saturday low 80f
-0 san_francisco saturday high 90f
-0 san_francisco sunday rain
-0 san_francisco sunday low 30f
-0 san_francisco sunday high 40f
-0 boston monday hot
-0 boston monday low 60f
-0 boston monday high 80f
-0 boston tuesday cloudy
-0 boston tuesday low 40f
-0 boston tuesday high 60f
-0 boston wednesday overcast
-0 boston wednesday low 60f
-0 boston wednesday high 70f
-0 boston thursday windy
-0 boston thursday low 60f
-0 boston thursday high 80f
-0 boston friday hot
-0 boston friday low 40f
-0 boston friday high 60f
-0 boston saturday windy
-0 boston saturday low 90f
-0 boston saturday high 100f
-0 boston sunday clear_skies
-0 boston sunday low 80f
-0 boston sunday high 100f
-1 what s the temperature going to be like on friday in cleveland ?	in cleveland this friday it will be cloudy between 30f - 40f	['cleveland', 'friday', '40f', '30f', 'cloudy']
-
-#weather#
-0 today monday
-0 cleveland monday snow
-0 cleveland monday low 40f
-0 cleveland monday high 60f
-0 cleveland tuesday overcast
-0 cleveland tuesday low 70f
-0 cleveland tuesday high 90f
-0 cleveland wednesday cloudy
-0 cleveland wednesday low 40f
-0 cleveland wednesday high 60f
-0 cleveland thursday cloudy
-0 cleveland thursday low 80f
-0 cleveland thursday high 90f
-0 cleveland friday cloudy
-0 cleveland friday low 30f
-0 cleveland friday high 40f
-0 cleveland saturday windy
-0 cleveland saturday low 40f
-0 cleveland saturday high 60f
-0 cleveland sunday cloudy
-0 cleveland sunday low 60f
-0 cleveland sunday high 80f
-0 downtown_chicago monday cloudy
-0 downtown_chicago monday low 40f
-0 downtown_chicago monday high 60f
-0 downtown_chicago tuesday windy
-0 downtown_chicago tuesday low 60f
-0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday rain
-0 downtown_chicago wednesday low 40f
-0 downtown_chicago wednesday high 60f
-0 downtown_chicago thursday hot
-0 downtown_chicago thursday low 70f
-0 downtown_chicago thursday high 90f
-0 downtown_chicago friday foggy
-0 downtown_chicago friday low 80f
-0 downtown_chicago friday high 90f
-0 downtown_chicago saturday rain
-0 downtown_chicago saturday low 70f
-0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday rain
-0 downtown_chicago sunday low 70f
-0 downtown_chicago sunday high 80f
-0 los_angeles monday overcast
-0 los_angeles monday low 40f
-0 los_angeles monday high 60f
-0 los_angeles tuesday warm
-0 los_angeles tuesday low 90f
-0 los_angeles tuesday high 100f
-0 los_angeles wednesday hot
-0 los_angeles wednesday low 90f
-0 los_angeles wednesday high 100f
-0 los_angeles thursday hot
-0 los_angeles thursday low 90f
-0 los_angeles thursday high 100f
-0 los_angeles friday windy
-0 los_angeles friday low 60f
-0 los_angeles friday high 80f
-0 los_angeles saturday windy
-0 los_angeles saturday low 60f
-0 los_angeles saturday high 80f
-0 los_angeles sunday foggy
-0 los_angeles sunday low 80f
-0 los_angeles sunday high 90f
-0 manhattan monday overcast
-0 manhattan monday low 30f
-0 manhattan monday high 40f
-0 manhattan tuesday rain
-0 manhattan tuesday low 80f
-0 manhattan tuesday high 90f
-0 manhattan wednesday clear_skies
-0 manhattan wednesday low 90f
-0 manhattan wednesday high 100f
-0 manhattan thursday clear_skies
-0 manhattan thursday low 80f
-0 manhattan thursday high 100f
-0 manhattan friday windy
-0 manhattan friday low 90f
-0 manhattan friday high 100f
-0 manhattan saturday overcast
-0 manhattan saturday low 70f
-0 manhattan saturday high 90f
-0 manhattan sunday overcast
-0 manhattan sunday low 30f
-0 manhattan sunday high 40f
-0 menlo_park monday snow
-0 menlo_park monday low 40f
-0 menlo_park monday high 60f
-0 menlo_park tuesday snow
-0 menlo_park tuesday low 60f
-0 menlo_park tuesday high 80f
-0 menlo_park wednesday warm
-0 menlo_park wednesday low 90f
-0 menlo_park wednesday high 100f
-0 menlo_park thursday rain
-0 menlo_park thursday low 90f
-0 menlo_park thursday high 100f
-0 menlo_park friday cloudy
-0 menlo_park friday low 90f
-0 menlo_park friday high 100f
-0 menlo_park saturday warm
-0 menlo_park saturday low 80f
-0 menlo_park saturday high 100f
-0 menlo_park sunday windy
-0 menlo_park sunday low 70f
-0 menlo_park sunday high 80f
-0 san_francisco monday cloudy
-0 san_francisco monday low 30f
-0 san_francisco monday high 40f
-0 san_francisco tuesday clear_skies
-0 san_francisco tuesday low 30f
-0 san_francisco tuesday high 40f
-0 san_francisco wednesday overcast
-0 san_francisco wednesday low 40f
-0 san_francisco wednesday high 60f
-0 san_francisco thursday clear_skies
-0 san_francisco thursday low 80f
-0 san_francisco thursday high 100f
-0 san_francisco friday rain
-0 san_francisco friday low 40f
-0 san_francisco friday high 60f
-0 san_francisco saturday snow
-0 san_francisco saturday low 80f
-0 san_francisco saturday high 90f
-0 san_francisco sunday rain
-0 san_francisco sunday low 30f
-0 san_francisco sunday high 40f
-0 boston monday hot
-0 boston monday low 60f
-0 boston monday high 80f
-0 boston tuesday cloudy
-0 boston tuesday low 40f
-0 boston tuesday high 60f
-0 boston wednesday overcast
-0 boston wednesday low 60f
-0 boston wednesday high 70f
-0 boston thursday windy
-0 boston thursday low 60f
-0 boston thursday high 80f
-0 boston friday hot
-0 boston friday low 40f
-0 boston friday high 60f
-0 boston saturday windy
-0 boston saturday low 90f
-0 boston saturday high 100f
-0 boston sunday clear_skies
-0 boston sunday low 80f
-0 boston sunday high 100f
-1 what s the temperature going to be like on tuesday in los_angeles ?	in los_angeles this tuesday it will be warm between 90f - 100f	['los_angeles', 'tuesday', '100f', '90f', 'warm']
 
 #weather#
 0 today monday
@@ -1586,7 +868,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what s the temperature going to be like on tuesday in menlo_park ?	in menlo_park this tuesday it will be snow between 60f - 80f	['menlo_park', 'tuesday', '80f', '60f', 'snow']
+1 what s the temperature going to be like on friday in cleveland ?	in cleveland this friday it will be cloudy between 30f - 40f	['cleveland', 'friday', '40f', '30f', 'cloudy']
 
 #weather#
 0 today monday
@@ -1737,7 +1019,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what s the temperature going to be in menlo_park on monday ?	in menlo_park this monday it will be snow between 40f - 60f	['menlo_park', 'monday', '60f', '40f', 'snow']
+1 what s the temperature going to be like on friday in boston ?	in boston this friday it will be hot between 40f - 60f	['boston', 'friday', '60f', '40f', 'hot']
 
 #weather#
 0 today monday
@@ -1888,7 +1170,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what s the temperature going to be in menlo_park on thursday ?	in menlo_park this thursday it will be rain between 90f - 100f	['menlo_park', 'thursday', '100f', '90f', 'rain']
+1 what s the temperature going to be like on sunday in san_francisco ?	in san_francisco this sunday it will be rain between 30f - 40f	['san_francisco', 'sunday', '40f', '30f', 'rain']
 
 #weather#
 0 today monday
@@ -2039,158 +1321,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what s the temperature going to be in cleveland on thursday ?	in cleveland this thursday it will be cloudy between 80f - 80f	['cleveland', 'thursday', '90f', '80f', 'cloudy']
-
-#weather#
-0 today monday
-0 cleveland monday snow
-0 cleveland monday low 40f
-0 cleveland monday high 60f
-0 cleveland tuesday overcast
-0 cleveland tuesday low 70f
-0 cleveland tuesday high 90f
-0 cleveland wednesday cloudy
-0 cleveland wednesday low 40f
-0 cleveland wednesday high 60f
-0 cleveland thursday cloudy
-0 cleveland thursday low 80f
-0 cleveland thursday high 90f
-0 cleveland friday cloudy
-0 cleveland friday low 30f
-0 cleveland friday high 40f
-0 cleveland saturday windy
-0 cleveland saturday low 40f
-0 cleveland saturday high 60f
-0 cleveland sunday cloudy
-0 cleveland sunday low 60f
-0 cleveland sunday high 80f
-0 downtown_chicago monday cloudy
-0 downtown_chicago monday low 40f
-0 downtown_chicago monday high 60f
-0 downtown_chicago tuesday windy
-0 downtown_chicago tuesday low 60f
-0 downtown_chicago tuesday high 70f
-0 downtown_chicago wednesday rain
-0 downtown_chicago wednesday low 40f
-0 downtown_chicago wednesday high 60f
-0 downtown_chicago thursday hot
-0 downtown_chicago thursday low 70f
-0 downtown_chicago thursday high 90f
-0 downtown_chicago friday foggy
-0 downtown_chicago friday low 80f
-0 downtown_chicago friday high 90f
-0 downtown_chicago saturday rain
-0 downtown_chicago saturday low 70f
-0 downtown_chicago saturday high 90f
-0 downtown_chicago sunday rain
-0 downtown_chicago sunday low 70f
-0 downtown_chicago sunday high 80f
-0 los_angeles monday overcast
-0 los_angeles monday low 40f
-0 los_angeles monday high 60f
-0 los_angeles tuesday warm
-0 los_angeles tuesday low 90f
-0 los_angeles tuesday high 100f
-0 los_angeles wednesday hot
-0 los_angeles wednesday low 90f
-0 los_angeles wednesday high 100f
-0 los_angeles thursday hot
-0 los_angeles thursday low 90f
-0 los_angeles thursday high 100f
-0 los_angeles friday windy
-0 los_angeles friday low 60f
-0 los_angeles friday high 80f
-0 los_angeles saturday windy
-0 los_angeles saturday low 60f
-0 los_angeles saturday high 80f
-0 los_angeles sunday foggy
-0 los_angeles sunday low 80f
-0 los_angeles sunday high 90f
-0 manhattan monday overcast
-0 manhattan monday low 30f
-0 manhattan monday high 40f
-0 manhattan tuesday rain
-0 manhattan tuesday low 80f
-0 manhattan tuesday high 90f
-0 manhattan wednesday clear_skies
-0 manhattan wednesday low 90f
-0 manhattan wednesday high 100f
-0 manhattan thursday clear_skies
-0 manhattan thursday low 80f
-0 manhattan thursday high 100f
-0 manhattan friday windy
-0 manhattan friday low 90f
-0 manhattan friday high 100f
-0 manhattan saturday overcast
-0 manhattan saturday low 70f
-0 manhattan saturday high 90f
-0 manhattan sunday overcast
-0 manhattan sunday low 30f
-0 manhattan sunday high 40f
-0 menlo_park monday snow
-0 menlo_park monday low 40f
-0 menlo_park monday high 60f
-0 menlo_park tuesday snow
-0 menlo_park tuesday low 60f
-0 menlo_park tuesday high 80f
-0 menlo_park wednesday warm
-0 menlo_park wednesday low 90f
-0 menlo_park wednesday high 100f
-0 menlo_park thursday rain
-0 menlo_park thursday low 90f
-0 menlo_park thursday high 100f
-0 menlo_park friday cloudy
-0 menlo_park friday low 90f
-0 menlo_park friday high 100f
-0 menlo_park saturday warm
-0 menlo_park saturday low 80f
-0 menlo_park saturday high 100f
-0 menlo_park sunday windy
-0 menlo_park sunday low 70f
-0 menlo_park sunday high 80f
-0 san_francisco monday cloudy
-0 san_francisco monday low 30f
-0 san_francisco monday high 40f
-0 san_francisco tuesday clear_skies
-0 san_francisco tuesday low 30f
-0 san_francisco tuesday high 40f
-0 san_francisco wednesday overcast
-0 san_francisco wednesday low 40f
-0 san_francisco wednesday high 60f
-0 san_francisco thursday clear_skies
-0 san_francisco thursday low 80f
-0 san_francisco thursday high 100f
-0 san_francisco friday rain
-0 san_francisco friday low 40f
-0 san_francisco friday high 60f
-0 san_francisco saturday snow
-0 san_francisco saturday low 80f
-0 san_francisco saturday high 90f
-0 san_francisco sunday rain
-0 san_francisco sunday low 30f
-0 san_francisco sunday high 40f
-0 boston monday hot
-0 boston monday low 60f
-0 boston monday high 80f
-0 boston tuesday cloudy
-0 boston tuesday low 40f
-0 boston tuesday high 60f
-0 boston wednesday overcast
-0 boston wednesday low 60f
-0 boston wednesday high 70f
-0 boston thursday windy
-0 boston thursday low 60f
-0 boston thursday high 80f
-0 boston friday hot
-0 boston friday low 40f
-0 boston friday high 60f
-0 boston saturday windy
-0 boston saturday low 90f
-0 boston saturday high 100f
-0 boston sunday clear_skies
-0 boston sunday low 80f
-0 boston sunday high 100f
-1 what s the temperature going to be in los_angeles on monday ?	in los_angeles this monday it will be overcast between 40f - 60f	['los_angeles', 'monday', '60f', '40f', 'overcast']
+1 what s the temperature going to be like on monday in boston ?	in boston this monday it will be hot between 60f - 80f	['boston', 'monday', '80f', '60f', 'hot']
 
 #weather#
 0 today monday
@@ -2492,7 +1623,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what s the temperature going to be in cleveland on sunday ?	in cleveland this sunday it will be cloudy between 60f - 80f	['cleveland', 'sunday', '80f', '60f', 'cloudy']
+1 what s the temperature going to be in los_angeles on thursday ?	in los_angeles this thursday it will be hot between 90f - 100f	['los_angeles', 'thursday', '100f', '90f', 'hot']
 
 #weather#
 0 today monday
@@ -2643,7 +1774,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what is the weather like on wednesday in cleveland ?	in cleveland this wednesday it will be cloudy between 40f - 60f	['cleveland', 'wednesday', '60f', '40f', 'cloudy']
+1 what s the temperature going to be in boston on thursday ?	in boston this thursday it will be windy between 60f - 80f	['boston', 'thursday', '80f', '60f', 'windy']
 
 #weather#
 0 today monday
@@ -2794,7 +1925,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what is the weather like on tuesday in cleveland ?	in cleveland this tuesday it will be overcast between 70f - 70f	['cleveland', 'tuesday', '90f', '70f', 'overcast']
+1 what s the temperature going to be in san_francisco on tuesday ?	in san_francisco this tuesday it will be clear_skies between 30f - 40f	['san_francisco', 'tuesday', '40f', '30f', 'clear_skies']
 
 #weather#
 0 today monday
@@ -2945,7 +2076,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what is the weather like on sunday in manhattan ?	in manhattan this sunday it will be overcast between 30f - 40f	['manhattan', 'sunday', '40f', '30f', 'overcast']
+1 what s the temperature going to be in san_francisco on sunday ?	in san_francisco this sunday it will be rain between 30f - 40f	['san_francisco', 'sunday', '40f', '30f', 'rain']
 
 #weather#
 0 today monday
@@ -3096,7 +2227,309 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what is the weather like on tuesday in manhattan ?	in manhattan this tuesday it will be rain between 80f - 80f	['manhattan', 'tuesday', '90f', '80f', 'rain']
+1 what is the weather like on monday in boston ?	in boston this monday it will be hot between 60f - 80f	['boston', 'monday', '80f', '60f', 'hot']
+
+#weather#
+0 today monday
+0 cleveland monday snow
+0 cleveland monday low 40f
+0 cleveland monday high 60f
+0 cleveland tuesday overcast
+0 cleveland tuesday low 70f
+0 cleveland tuesday high 90f
+0 cleveland wednesday cloudy
+0 cleveland wednesday low 40f
+0 cleveland wednesday high 60f
+0 cleveland thursday cloudy
+0 cleveland thursday low 80f
+0 cleveland thursday high 90f
+0 cleveland friday cloudy
+0 cleveland friday low 30f
+0 cleveland friday high 40f
+0 cleveland saturday windy
+0 cleveland saturday low 40f
+0 cleveland saturday high 60f
+0 cleveland sunday cloudy
+0 cleveland sunday low 60f
+0 cleveland sunday high 80f
+0 downtown_chicago monday cloudy
+0 downtown_chicago monday low 40f
+0 downtown_chicago monday high 60f
+0 downtown_chicago tuesday windy
+0 downtown_chicago tuesday low 60f
+0 downtown_chicago tuesday high 70f
+0 downtown_chicago wednesday rain
+0 downtown_chicago wednesday low 40f
+0 downtown_chicago wednesday high 60f
+0 downtown_chicago thursday hot
+0 downtown_chicago thursday low 70f
+0 downtown_chicago thursday high 90f
+0 downtown_chicago friday foggy
+0 downtown_chicago friday low 80f
+0 downtown_chicago friday high 90f
+0 downtown_chicago saturday rain
+0 downtown_chicago saturday low 70f
+0 downtown_chicago saturday high 90f
+0 downtown_chicago sunday rain
+0 downtown_chicago sunday low 70f
+0 downtown_chicago sunday high 80f
+0 los_angeles monday overcast
+0 los_angeles monday low 40f
+0 los_angeles monday high 60f
+0 los_angeles tuesday warm
+0 los_angeles tuesday low 90f
+0 los_angeles tuesday high 100f
+0 los_angeles wednesday hot
+0 los_angeles wednesday low 90f
+0 los_angeles wednesday high 100f
+0 los_angeles thursday hot
+0 los_angeles thursday low 90f
+0 los_angeles thursday high 100f
+0 los_angeles friday windy
+0 los_angeles friday low 60f
+0 los_angeles friday high 80f
+0 los_angeles saturday windy
+0 los_angeles saturday low 60f
+0 los_angeles saturday high 80f
+0 los_angeles sunday foggy
+0 los_angeles sunday low 80f
+0 los_angeles sunday high 90f
+0 manhattan monday overcast
+0 manhattan monday low 30f
+0 manhattan monday high 40f
+0 manhattan tuesday rain
+0 manhattan tuesday low 80f
+0 manhattan tuesday high 90f
+0 manhattan wednesday clear_skies
+0 manhattan wednesday low 90f
+0 manhattan wednesday high 100f
+0 manhattan thursday clear_skies
+0 manhattan thursday low 80f
+0 manhattan thursday high 100f
+0 manhattan friday windy
+0 manhattan friday low 90f
+0 manhattan friday high 100f
+0 manhattan saturday overcast
+0 manhattan saturday low 70f
+0 manhattan saturday high 90f
+0 manhattan sunday overcast
+0 manhattan sunday low 30f
+0 manhattan sunday high 40f
+0 menlo_park monday snow
+0 menlo_park monday low 40f
+0 menlo_park monday high 60f
+0 menlo_park tuesday snow
+0 menlo_park tuesday low 60f
+0 menlo_park tuesday high 80f
+0 menlo_park wednesday warm
+0 menlo_park wednesday low 90f
+0 menlo_park wednesday high 100f
+0 menlo_park thursday rain
+0 menlo_park thursday low 90f
+0 menlo_park thursday high 100f
+0 menlo_park friday cloudy
+0 menlo_park friday low 90f
+0 menlo_park friday high 100f
+0 menlo_park saturday warm
+0 menlo_park saturday low 80f
+0 menlo_park saturday high 100f
+0 menlo_park sunday windy
+0 menlo_park sunday low 70f
+0 menlo_park sunday high 80f
+0 san_francisco monday cloudy
+0 san_francisco monday low 30f
+0 san_francisco monday high 40f
+0 san_francisco tuesday clear_skies
+0 san_francisco tuesday low 30f
+0 san_francisco tuesday high 40f
+0 san_francisco wednesday overcast
+0 san_francisco wednesday low 40f
+0 san_francisco wednesday high 60f
+0 san_francisco thursday clear_skies
+0 san_francisco thursday low 80f
+0 san_francisco thursday high 100f
+0 san_francisco friday rain
+0 san_francisco friday low 40f
+0 san_francisco friday high 60f
+0 san_francisco saturday snow
+0 san_francisco saturday low 80f
+0 san_francisco saturday high 90f
+0 san_francisco sunday rain
+0 san_francisco sunday low 30f
+0 san_francisco sunday high 40f
+0 boston monday hot
+0 boston monday low 60f
+0 boston monday high 80f
+0 boston tuesday cloudy
+0 boston tuesday low 40f
+0 boston tuesday high 60f
+0 boston wednesday overcast
+0 boston wednesday low 60f
+0 boston wednesday high 70f
+0 boston thursday windy
+0 boston thursday low 60f
+0 boston thursday high 80f
+0 boston friday hot
+0 boston friday low 40f
+0 boston friday high 60f
+0 boston saturday windy
+0 boston saturday low 90f
+0 boston saturday high 100f
+0 boston sunday clear_skies
+0 boston sunday low 80f
+0 boston sunday high 100f
+1 what is the weather like on sunday in boston ?	in boston this sunday it will be clear_skies between 80f - 100f	['boston', 'sunday', '100f', '80f', 'clear_skies']
+
+#weather#
+0 today monday
+0 cleveland monday snow
+0 cleveland monday low 40f
+0 cleveland monday high 60f
+0 cleveland tuesday overcast
+0 cleveland tuesday low 70f
+0 cleveland tuesday high 90f
+0 cleveland wednesday cloudy
+0 cleveland wednesday low 40f
+0 cleveland wednesday high 60f
+0 cleveland thursday cloudy
+0 cleveland thursday low 80f
+0 cleveland thursday high 90f
+0 cleveland friday cloudy
+0 cleveland friday low 30f
+0 cleveland friday high 40f
+0 cleveland saturday windy
+0 cleveland saturday low 40f
+0 cleveland saturday high 60f
+0 cleveland sunday cloudy
+0 cleveland sunday low 60f
+0 cleveland sunday high 80f
+0 downtown_chicago monday cloudy
+0 downtown_chicago monday low 40f
+0 downtown_chicago monday high 60f
+0 downtown_chicago tuesday windy
+0 downtown_chicago tuesday low 60f
+0 downtown_chicago tuesday high 70f
+0 downtown_chicago wednesday rain
+0 downtown_chicago wednesday low 40f
+0 downtown_chicago wednesday high 60f
+0 downtown_chicago thursday hot
+0 downtown_chicago thursday low 70f
+0 downtown_chicago thursday high 90f
+0 downtown_chicago friday foggy
+0 downtown_chicago friday low 80f
+0 downtown_chicago friday high 90f
+0 downtown_chicago saturday rain
+0 downtown_chicago saturday low 70f
+0 downtown_chicago saturday high 90f
+0 downtown_chicago sunday rain
+0 downtown_chicago sunday low 70f
+0 downtown_chicago sunday high 80f
+0 los_angeles monday overcast
+0 los_angeles monday low 40f
+0 los_angeles monday high 60f
+0 los_angeles tuesday warm
+0 los_angeles tuesday low 90f
+0 los_angeles tuesday high 100f
+0 los_angeles wednesday hot
+0 los_angeles wednesday low 90f
+0 los_angeles wednesday high 100f
+0 los_angeles thursday hot
+0 los_angeles thursday low 90f
+0 los_angeles thursday high 100f
+0 los_angeles friday windy
+0 los_angeles friday low 60f
+0 los_angeles friday high 80f
+0 los_angeles saturday windy
+0 los_angeles saturday low 60f
+0 los_angeles saturday high 80f
+0 los_angeles sunday foggy
+0 los_angeles sunday low 80f
+0 los_angeles sunday high 90f
+0 manhattan monday overcast
+0 manhattan monday low 30f
+0 manhattan monday high 40f
+0 manhattan tuesday rain
+0 manhattan tuesday low 80f
+0 manhattan tuesday high 90f
+0 manhattan wednesday clear_skies
+0 manhattan wednesday low 90f
+0 manhattan wednesday high 100f
+0 manhattan thursday clear_skies
+0 manhattan thursday low 80f
+0 manhattan thursday high 100f
+0 manhattan friday windy
+0 manhattan friday low 90f
+0 manhattan friday high 100f
+0 manhattan saturday overcast
+0 manhattan saturday low 70f
+0 manhattan saturday high 90f
+0 manhattan sunday overcast
+0 manhattan sunday low 30f
+0 manhattan sunday high 40f
+0 menlo_park monday snow
+0 menlo_park monday low 40f
+0 menlo_park monday high 60f
+0 menlo_park tuesday snow
+0 menlo_park tuesday low 60f
+0 menlo_park tuesday high 80f
+0 menlo_park wednesday warm
+0 menlo_park wednesday low 90f
+0 menlo_park wednesday high 100f
+0 menlo_park thursday rain
+0 menlo_park thursday low 90f
+0 menlo_park thursday high 100f
+0 menlo_park friday cloudy
+0 menlo_park friday low 90f
+0 menlo_park friday high 100f
+0 menlo_park saturday warm
+0 menlo_park saturday low 80f
+0 menlo_park saturday high 100f
+0 menlo_park sunday windy
+0 menlo_park sunday low 70f
+0 menlo_park sunday high 80f
+0 san_francisco monday cloudy
+0 san_francisco monday low 30f
+0 san_francisco monday high 40f
+0 san_francisco tuesday clear_skies
+0 san_francisco tuesday low 30f
+0 san_francisco tuesday high 40f
+0 san_francisco wednesday overcast
+0 san_francisco wednesday low 40f
+0 san_francisco wednesday high 60f
+0 san_francisco thursday clear_skies
+0 san_francisco thursday low 80f
+0 san_francisco thursday high 100f
+0 san_francisco friday rain
+0 san_francisco friday low 40f
+0 san_francisco friday high 60f
+0 san_francisco saturday snow
+0 san_francisco saturday low 80f
+0 san_francisco saturday high 90f
+0 san_francisco sunday rain
+0 san_francisco sunday low 30f
+0 san_francisco sunday high 40f
+0 boston monday hot
+0 boston monday low 60f
+0 boston monday high 80f
+0 boston tuesday cloudy
+0 boston tuesday low 40f
+0 boston tuesday high 60f
+0 boston wednesday overcast
+0 boston wednesday low 60f
+0 boston wednesday high 70f
+0 boston thursday windy
+0 boston thursday low 60f
+0 boston thursday high 80f
+0 boston friday hot
+0 boston friday low 40f
+0 boston friday high 60f
+0 boston saturday windy
+0 boston saturday low 90f
+0 boston saturday high 100f
+0 boston sunday clear_skies
+0 boston sunday low 80f
+0 boston sunday high 100f
+1 what is the weather like on wednesday in menlo_park ?	in menlo_park this wednesday it will be warm between 90f - 100f	['menlo_park', 'wednesday', '100f', '90f', 'warm']
 
 #weather#
 0 today monday
@@ -3398,7 +2831,7 @@
 0 boston sunday clear_skies
 0 boston sunday low 80f
 0 boston sunday high 100f
-1 what is the weather like on wednesday in manhattan ?	in manhattan this wednesday it will be clear_skies between 90f - 100f	['manhattan', 'wednesday', '100f', '90f', 'clear_skies']
+1 what is the weather like on wednesday in los_angeles ?	in los_angeles this wednesday it will be hot between 90f - 100f	['los_angeles', 'wednesday', '100f', '90f', 'hot']
 
 #schedule#
 0 swimming_activity time 1pm

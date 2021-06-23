@@ -386,71 +386,6 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on finders_corner_newmarket_road .	It is a cheap price restaurant offering international cuisine .	['cheap', 'restaurant', 'international']
-
-#restaurant#
-0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
-0 the_good_luck_chinese_food_takeaway address 82_cherry_hinton_road_cherry_hinton
-0 the_good_luck_chinese_food_takeaway area south
-0 the_good_luck_chinese_food_takeaway food chinese
-0 the_good_luck_chinese_food_takeaway phone 01223244149
-0 the_good_luck_chinese_food_takeaway postcode cb17ag
-0 the_good_luck_chinese_food_takeaway pricerange expensive
-0 the_good_luck_chinese_food_takeaway type restaurant
-0 the_good_luck_chinese_food_takeaway ref 1eb89a0f
-0 35_saint_andrews_street_city_centre centre international 01223356060 cb23ar moderate restaurant name the_varsity_restaurant
-0 the_varsity_restaurant address 35_saint_andrews_street_city_centre
-0 the_varsity_restaurant area centre
-0 the_varsity_restaurant food international
-0 the_varsity_restaurant phone 01223356060
-0 the_varsity_restaurant postcode cb23ar
-0 the_varsity_restaurant pricerange moderate
-0 the_varsity_restaurant type restaurant
-0 106_regent_street_city_centre centre indian 01223302330 cb21dp expensive restaurant 1eb89a0f name curry_garden
-0 curry_garden address 106_regent_street_city_centre
-0 curry_garden area centre
-0 curry_garden food indian
-0 curry_garden phone 01223302330
-0 curry_garden postcode cb21dp
-0 curry_garden pricerange expensive
-0 curry_garden type restaurant
-0 curry_garden ref 1eb89a0f
-0 finders_corner_newmarket_road east international 01223812660 cb259aq cheap restaurant 1eb89a0f name the_missing_sock
-0 the_missing_sock address finders_corner_newmarket_road
-0 the_missing_sock area east
-0 the_missing_sock food international
-0 the_missing_sock phone 01223812660
-0 the_missing_sock postcode cb259aq
-0 the_missing_sock pricerange cheap
-0 the_missing_sock type restaurant
-0 the_missing_sock ref 1eb89a0f
-0 g4_cambridge_leisure_park_clifton_way_cherry_hinton south italian 01223323737 cb17dy moderate restaurant 1eb89a0f name pizza_hut_cherry_hinton
-0 pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton
-0 pizza_hut_cherry_hinton area south
-0 pizza_hut_cherry_hinton food italian
-0 pizza_hut_cherry_hinton phone 01223323737
-0 pizza_hut_cherry_hinton postcode cb17dy
-0 pizza_hut_cherry_hinton pricerange moderate
-0 pizza_hut_cherry_hinton type restaurant
-0 pizza_hut_cherry_hinton ref 1eb89a0f
-0 regent_street_city_centre centre italian 01223323737 cb21ab cheap restaurant 1eb89a0f name pizza_hut_city_centre
-0 pizza_hut_city_centre address regent_street_city_centre
-0 pizza_hut_city_centre area centre
-0 pizza_hut_city_centre food italian
-0 pizza_hut_city_centre phone 01223323737
-0 pizza_hut_city_centre postcode cb21ab
-0 pizza_hut_city_centre pricerange cheap
-0 pizza_hut_city_centre type restaurant
-0 pizza_hut_city_centre ref 1eb89a0f
-0 35_saint_andrews_street_city_centre centre international 01223356060 cb23ar moderate restaurant 1eb89a0f name the_varsity_restaurant
-0 the_varsity_restaurant address 35_saint_andrews_street_city_centre
-0 the_varsity_restaurant area centre
-0 the_varsity_restaurant food international
-0 the_varsity_restaurant phone 01223356060
-0 the_varsity_restaurant postcode cb23ar
-0 the_varsity_restaurant pricerange moderate
-0 the_varsity_restaurant type restaurant
-0 the_varsity_restaurant ref 1eb89a0f
 1 hello , i am looking for information on regent_street_city_centre .	It is a cheap price restaurant offering italian cuisine .	['cheap', 'restaurant', 'italian']
 
 #restaurant#
@@ -647,71 +582,6 @@
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
 1 hello , i am looking for information on 106_regent_street_city_centre .	It is a expensive price restaurant offering indian cuisine .	['expensive', 'restaurant', 'indian']
-
-#restaurant#
-0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
-0 the_good_luck_chinese_food_takeaway address 82_cherry_hinton_road_cherry_hinton
-0 the_good_luck_chinese_food_takeaway area south
-0 the_good_luck_chinese_food_takeaway food chinese
-0 the_good_luck_chinese_food_takeaway phone 01223244149
-0 the_good_luck_chinese_food_takeaway postcode cb17ag
-0 the_good_luck_chinese_food_takeaway pricerange expensive
-0 the_good_luck_chinese_food_takeaway type restaurant
-0 the_good_luck_chinese_food_takeaway ref 1eb89a0f
-0 35_saint_andrews_street_city_centre centre international 01223356060 cb23ar moderate restaurant name the_varsity_restaurant
-0 the_varsity_restaurant address 35_saint_andrews_street_city_centre
-0 the_varsity_restaurant area centre
-0 the_varsity_restaurant food international
-0 the_varsity_restaurant phone 01223356060
-0 the_varsity_restaurant postcode cb23ar
-0 the_varsity_restaurant pricerange moderate
-0 the_varsity_restaurant type restaurant
-0 106_regent_street_city_centre centre indian 01223302330 cb21dp expensive restaurant 1eb89a0f name curry_garden
-0 curry_garden address 106_regent_street_city_centre
-0 curry_garden area centre
-0 curry_garden food indian
-0 curry_garden phone 01223302330
-0 curry_garden postcode cb21dp
-0 curry_garden pricerange expensive
-0 curry_garden type restaurant
-0 curry_garden ref 1eb89a0f
-0 finders_corner_newmarket_road east international 01223812660 cb259aq cheap restaurant 1eb89a0f name the_missing_sock
-0 the_missing_sock address finders_corner_newmarket_road
-0 the_missing_sock area east
-0 the_missing_sock food international
-0 the_missing_sock phone 01223812660
-0 the_missing_sock postcode cb259aq
-0 the_missing_sock pricerange cheap
-0 the_missing_sock type restaurant
-0 the_missing_sock ref 1eb89a0f
-0 g4_cambridge_leisure_park_clifton_way_cherry_hinton south italian 01223323737 cb17dy moderate restaurant 1eb89a0f name pizza_hut_cherry_hinton
-0 pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton
-0 pizza_hut_cherry_hinton area south
-0 pizza_hut_cherry_hinton food italian
-0 pizza_hut_cherry_hinton phone 01223323737
-0 pizza_hut_cherry_hinton postcode cb17dy
-0 pizza_hut_cherry_hinton pricerange moderate
-0 pizza_hut_cherry_hinton type restaurant
-0 pizza_hut_cherry_hinton ref 1eb89a0f
-0 regent_street_city_centre centre italian 01223323737 cb21ab cheap restaurant 1eb89a0f name pizza_hut_city_centre
-0 pizza_hut_city_centre address regent_street_city_centre
-0 pizza_hut_city_centre area centre
-0 pizza_hut_city_centre food italian
-0 pizza_hut_city_centre phone 01223323737
-0 pizza_hut_city_centre postcode cb21ab
-0 pizza_hut_city_centre pricerange cheap
-0 pizza_hut_city_centre type restaurant
-0 pizza_hut_city_centre ref 1eb89a0f
-0 35_saint_andrews_street_city_centre centre international 01223356060 cb23ar moderate restaurant 1eb89a0f name the_varsity_restaurant
-0 the_varsity_restaurant address 35_saint_andrews_street_city_centre
-0 the_varsity_restaurant area centre
-0 the_varsity_restaurant food international
-0 the_varsity_restaurant phone 01223356060
-0 the_varsity_restaurant postcode cb23ar
-0 the_varsity_restaurant pricerange moderate
-0 the_varsity_restaurant type restaurant
-0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -1103,71 +973,6 @@
 0 the_varsity_restaurant ref 1eb89a0f
 1 I ' m looking for some information on finders_corner_newmarket_road .	It is a cheap price restaurant offering international cuisine .	['cheap', 'restaurant', 'international']
 
-#restaurant#
-0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
-0 the_good_luck_chinese_food_takeaway address 82_cherry_hinton_road_cherry_hinton
-0 the_good_luck_chinese_food_takeaway area south
-0 the_good_luck_chinese_food_takeaway food chinese
-0 the_good_luck_chinese_food_takeaway phone 01223244149
-0 the_good_luck_chinese_food_takeaway postcode cb17ag
-0 the_good_luck_chinese_food_takeaway pricerange expensive
-0 the_good_luck_chinese_food_takeaway type restaurant
-0 the_good_luck_chinese_food_takeaway ref 1eb89a0f
-0 35_saint_andrews_street_city_centre centre international 01223356060 cb23ar moderate restaurant name the_varsity_restaurant
-0 the_varsity_restaurant address 35_saint_andrews_street_city_centre
-0 the_varsity_restaurant area centre
-0 the_varsity_restaurant food international
-0 the_varsity_restaurant phone 01223356060
-0 the_varsity_restaurant postcode cb23ar
-0 the_varsity_restaurant pricerange moderate
-0 the_varsity_restaurant type restaurant
-0 106_regent_street_city_centre centre indian 01223302330 cb21dp expensive restaurant 1eb89a0f name curry_garden
-0 curry_garden address 106_regent_street_city_centre
-0 curry_garden area centre
-0 curry_garden food indian
-0 curry_garden phone 01223302330
-0 curry_garden postcode cb21dp
-0 curry_garden pricerange expensive
-0 curry_garden type restaurant
-0 curry_garden ref 1eb89a0f
-0 finders_corner_newmarket_road east international 01223812660 cb259aq cheap restaurant 1eb89a0f name the_missing_sock
-0 the_missing_sock address finders_corner_newmarket_road
-0 the_missing_sock area east
-0 the_missing_sock food international
-0 the_missing_sock phone 01223812660
-0 the_missing_sock postcode cb259aq
-0 the_missing_sock pricerange cheap
-0 the_missing_sock type restaurant
-0 the_missing_sock ref 1eb89a0f
-0 g4_cambridge_leisure_park_clifton_way_cherry_hinton south italian 01223323737 cb17dy moderate restaurant 1eb89a0f name pizza_hut_cherry_hinton
-0 pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton
-0 pizza_hut_cherry_hinton area south
-0 pizza_hut_cherry_hinton food italian
-0 pizza_hut_cherry_hinton phone 01223323737
-0 pizza_hut_cherry_hinton postcode cb17dy
-0 pizza_hut_cherry_hinton pricerange moderate
-0 pizza_hut_cherry_hinton type restaurant
-0 pizza_hut_cherry_hinton ref 1eb89a0f
-0 regent_street_city_centre centre italian 01223323737 cb21ab cheap restaurant 1eb89a0f name pizza_hut_city_centre
-0 pizza_hut_city_centre address regent_street_city_centre
-0 pizza_hut_city_centre area centre
-0 pizza_hut_city_centre food italian
-0 pizza_hut_city_centre phone 01223323737
-0 pizza_hut_city_centre postcode cb21ab
-0 pizza_hut_city_centre pricerange cheap
-0 pizza_hut_city_centre type restaurant
-0 pizza_hut_city_centre ref 1eb89a0f
-0 35_saint_andrews_street_city_centre centre international 01223356060 cb23ar moderate restaurant 1eb89a0f name the_varsity_restaurant
-0 the_varsity_restaurant address 35_saint_andrews_street_city_centre
-0 the_varsity_restaurant area centre
-0 the_varsity_restaurant food international
-0 the_varsity_restaurant phone 01223356060
-0 the_varsity_restaurant postcode cb23ar
-0 the_varsity_restaurant pricerange moderate
-0 the_varsity_restaurant type restaurant
-0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on g4_cambridge_leisure_park_clifton_way_cherry_hinton .	It is a moderate price restaurant offering italian cuisine .	['moderate', 'restaurant', 'italian']
-
 #hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
 0 leverton_house address 732-734_newmarket_road
@@ -1447,62 +1252,6 @@
 0 finches_bed_and_breakfast type hotel
 0 finches_bed_and_breakfast ref u0jt0yz8
 1 i ' m looking for a expensive hotel .	allenbell is a expensive option	['expensive', 'allenbell']
-
-#hotel#
-0 732-734_newmarket_road east 01223292094 cb58rs expensive 2_star guesthouse u0jt0yz8 name leverton_house
-0 leverton_house address 732-734_newmarket_road
-0 leverton_house area east
-0 leverton_house phone 01223292094
-0 leverton_house postcode cb58rs
-0 leverton_house pricerange expensive
-0 leverton_house stars 2_star
-0 leverton_house type guesthouse
-0 leverton_house ref u0jt0yz8
-0 56_saint_barnabas_road centre 01223525725 cb12de cheap 3_star hotel name alexander_bed_and_breakfast
-0 alexander_bed_and_breakfast address 56_saint_barnabas_road
-0 alexander_bed_and_breakfast area centre
-0 alexander_bed_and_breakfast phone 01223525725
-0 alexander_bed_and_breakfast postcode cb12de
-0 alexander_bed_and_breakfast pricerange cheap
-0 alexander_bed_and_breakfast stars 3_star
-0 alexander_bed_and_breakfast type hotel
-0 53_roseford_road south 01223512596 cb22ha expensive 4_star guesthouse u0jt0yz8 name rosa_'_s_bed_and_breakfast
-0 rosa_'_s_bed_and_breakfast address 53_roseford_road
-0 rosa_'_s_bed_and_breakfast area south
-0 rosa_'_s_bed_and_breakfast phone 01223512596
-0 rosa_'_s_bed_and_breakfast postcode cb22ha
-0 rosa_'_s_bed_and_breakfast pricerange expensive
-0 rosa_'_s_bed_and_breakfast stars 4_star
-0 rosa_'_s_bed_and_breakfast type guesthouse
-0 rosa_'_s_bed_and_breakfast ref u0jt0yz8
-0 710_newmarket_road east 01223575122 cb58rs moderate 4_star hotel u0jt0yz8 name autumn_house
-0 autumn_house address 710_newmarket_road
-0 autumn_house area east
-0 autumn_house phone 01223575122
-0 autumn_house postcode cb58rs
-0 autumn_house pricerange moderate
-0 autumn_house stars 4_star
-0 autumn_house type hotel
-0 autumn_house ref u0jt0yz8
-0 517a_coldham_lane east 01223210353 cb13js expensive 2_star guesthouse u0jt0yz8 name allenbell
-0 allenbell address 517a_coldham_lane
-0 allenbell area east
-0 allenbell phone 01223210353
-0 allenbell postcode cb13js
-0 allenbell pricerange expensive
-0 allenbell stars 2_star
-0 allenbell type guesthouse
-0 allenbell ref u0jt0yz8
-0 144_thornton_road west 01223276653 cb30nd expensive 4_star hotel u0jt0yz8 name finches_bed_and_breakfast
-0 finches_bed_and_breakfast address 144_thornton_road
-0 finches_bed_and_breakfast area west
-0 finches_bed_and_breakfast phone 01223276653
-0 finches_bed_and_breakfast postcode cb30nd
-0 finches_bed_and_breakfast pricerange expensive
-0 finches_bed_and_breakfast stars 4_star
-0 finches_bed_and_breakfast type hotel
-0 finches_bed_and_breakfast ref u0jt0yz8
-1 i ' m looking for a moderate hotel .	autumn_house is a moderate option	['moderate', 'autumn_house']
 
 #hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
@@ -1785,62 +1534,6 @@
 1 i need a expensive hotel .	finches_bed_and_breakfast is a expensive option	['expensive', 'finches_bed_and_breakfast']
 
 #hotel#
-0 732-734_newmarket_road east 01223292094 cb58rs cheap 2_star guesthouse u0jt0yz8 name leverton_house
-0 leverton_house address 732-734_newmarket_road
-0 leverton_house area east
-0 leverton_house phone 01223292094
-0 leverton_house postcode cb58rs
-0 leverton_house pricerange cheap
-0 leverton_house stars 2_star
-0 leverton_house type guesthouse
-0 leverton_house ref u0jt0yz8
-0 56_saint_barnabas_road centre 01223525725 cb12de cheap 3_star hotel name alexander_bed_and_breakfast
-0 alexander_bed_and_breakfast address 56_saint_barnabas_road
-0 alexander_bed_and_breakfast area centre
-0 alexander_bed_and_breakfast phone 01223525725
-0 alexander_bed_and_breakfast postcode cb12de
-0 alexander_bed_and_breakfast pricerange cheap
-0 alexander_bed_and_breakfast stars 3_star
-0 alexander_bed_and_breakfast type hotel
-0 53_roseford_road south 01223512596 cb22ha cheap 4_star guesthouse u0jt0yz8 name rosa_'_s_bed_and_breakfast
-0 rosa_'_s_bed_and_breakfast address 53_roseford_road
-0 rosa_'_s_bed_and_breakfast area south
-0 rosa_'_s_bed_and_breakfast phone 01223512596
-0 rosa_'_s_bed_and_breakfast postcode cb22ha
-0 rosa_'_s_bed_and_breakfast pricerange cheap
-0 rosa_'_s_bed_and_breakfast stars 4_star
-0 rosa_'_s_bed_and_breakfast type guesthouse
-0 rosa_'_s_bed_and_breakfast ref u0jt0yz8
-0 710_newmarket_road east 01223575122 cb58rs moderate 4_star hotel u0jt0yz8 name autumn_house
-0 autumn_house address 710_newmarket_road
-0 autumn_house area east
-0 autumn_house phone 01223575122
-0 autumn_house postcode cb58rs
-0 autumn_house pricerange moderate
-0 autumn_house stars 4_star
-0 autumn_house type hotel
-0 autumn_house ref u0jt0yz8
-0 517a_coldham_lane east 01223210353 cb13js expensive 2_star guesthouse u0jt0yz8 name allenbell
-0 allenbell address 517a_coldham_lane
-0 allenbell area east
-0 allenbell phone 01223210353
-0 allenbell postcode cb13js
-0 allenbell pricerange expensive
-0 allenbell stars 2_star
-0 allenbell type guesthouse
-0 allenbell ref u0jt0yz8
-0 144_thornton_road west 01223276653 cb30nd expensive 4_star hotel u0jt0yz8 name finches_bed_and_breakfast
-0 finches_bed_and_breakfast address 144_thornton_road
-0 finches_bed_and_breakfast area west
-0 finches_bed_and_breakfast phone 01223276653
-0 finches_bed_and_breakfast postcode cb30nd
-0 finches_bed_and_breakfast pricerange expensive
-0 finches_bed_and_breakfast stars 4_star
-0 finches_bed_and_breakfast type hotel
-0 finches_bed_and_breakfast ref u0jt0yz8
-1 i need a moderate hotel .	autumn_house is a moderate option	['moderate', 'autumn_house']
-
-#hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
 0 leverton_house address 732-734_newmarket_road
 0 leverton_house area east
@@ -2119,62 +1812,6 @@
 0 finches_bed_and_breakfast type hotel
 0 finches_bed_and_breakfast ref u0jt0yz8
 1 can you find me a moderate hotel ?	rosa_'_s_bed_and_breakfast is a moderate option	['moderate', "rosa_'_s_bed_and_breakfast"]
-
-#hotel#
-0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
-0 leverton_house address 732-734_newmarket_road
-0 leverton_house area east
-0 leverton_house phone 01223292094
-0 leverton_house postcode cb58rs
-0 leverton_house pricerange moderate
-0 leverton_house stars 2_star
-0 leverton_house type guesthouse
-0 leverton_house ref u0jt0yz8
-0 56_saint_barnabas_road centre 01223525725 cb12de cheap 3_star hotel name alexander_bed_and_breakfast
-0 alexander_bed_and_breakfast address 56_saint_barnabas_road
-0 alexander_bed_and_breakfast area centre
-0 alexander_bed_and_breakfast phone 01223525725
-0 alexander_bed_and_breakfast postcode cb12de
-0 alexander_bed_and_breakfast pricerange cheap
-0 alexander_bed_and_breakfast stars 3_star
-0 alexander_bed_and_breakfast type hotel
-0 53_roseford_road south 01223512596 cb22ha expensive 4_star guesthouse u0jt0yz8 name rosa_'_s_bed_and_breakfast
-0 rosa_'_s_bed_and_breakfast address 53_roseford_road
-0 rosa_'_s_bed_and_breakfast area south
-0 rosa_'_s_bed_and_breakfast phone 01223512596
-0 rosa_'_s_bed_and_breakfast postcode cb22ha
-0 rosa_'_s_bed_and_breakfast pricerange expensive
-0 rosa_'_s_bed_and_breakfast stars 4_star
-0 rosa_'_s_bed_and_breakfast type guesthouse
-0 rosa_'_s_bed_and_breakfast ref u0jt0yz8
-0 710_newmarket_road east 01223575122 cb58rs cheap 4_star hotel u0jt0yz8 name autumn_house
-0 autumn_house address 710_newmarket_road
-0 autumn_house area east
-0 autumn_house phone 01223575122
-0 autumn_house postcode cb58rs
-0 autumn_house pricerange cheap
-0 autumn_house stars 4_star
-0 autumn_house type hotel
-0 autumn_house ref u0jt0yz8
-0 517a_coldham_lane east 01223210353 cb13js expensive 2_star guesthouse u0jt0yz8 name allenbell
-0 allenbell address 517a_coldham_lane
-0 allenbell area east
-0 allenbell phone 01223210353
-0 allenbell postcode cb13js
-0 allenbell pricerange expensive
-0 allenbell stars 2_star
-0 allenbell type guesthouse
-0 allenbell ref u0jt0yz8
-0 144_thornton_road west 01223276653 cb30nd expensive 4_star hotel u0jt0yz8 name finches_bed_and_breakfast
-0 finches_bed_and_breakfast address 144_thornton_road
-0 finches_bed_and_breakfast area west
-0 finches_bed_and_breakfast phone 01223276653
-0 finches_bed_and_breakfast postcode cb30nd
-0 finches_bed_and_breakfast pricerange expensive
-0 finches_bed_and_breakfast stars 4_star
-0 finches_bed_and_breakfast type hotel
-0 finches_bed_and_breakfast ref u0jt0yz8
-1 can you find me a moderate hotel ?	leverton_house is a moderate option	['moderate', 'leverton_house']
 
 #attraction#
 0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
@@ -2486,58 +2123,6 @@
 0 byard_art postcode cb21sj
 0 byard_art pricerange free
 0 byard_art type museum
-1 can you help me find ballare ?	ballare is in the centre , and is located on heidelberg_gardens_,_lion_yard .	['ballare', 'heidelberg_gardens_,_lion_yard', 'centre']
-
-#attraction#
-0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
-0 broughton_house_gallery address 98_king_street
-0 broughton_house_gallery area centre
-0 broughton_house_gallery phone 01223314960
-0 broughton_house_gallery postcode cb11ln
-0 broughton_house_gallery pricerange free
-0 broughton_house_gallery type museum
-0 jesus_lane centre 01223452587 cb58bs free architecture name all_saints_church
-0 all_saints_church address jesus_lane
-0 all_saints_church area centre
-0 all_saints_church phone 01223452587
-0 all_saints_church postcode cb58bs
-0 all_saints_church pricerange free
-0 all_saints_church type architecture
-0 park_street centre 01223300085 cb58as <dontknow> theatre name adc_theatre
-0 adc_theatre address park_street
-0 adc_theatre area centre
-0 adc_theatre phone 01223300085
-0 adc_theatre postcode cb58as
-0 adc_theatre pricerange <dontknow>
-0 adc_theatre type theatre
-0 trumpington_street centre 01223332900 cb21rb free museum name the_fitzwilliam_museum
-0 the_fitzwilliam_museum address trumpington_street
-0 the_fitzwilliam_museum area centre
-0 the_fitzwilliam_museum phone 01223332900
-0 the_fitzwilliam_museum postcode cb21rb
-0 the_fitzwilliam_museum pricerange free
-0 the_fitzwilliam_museum type museum
-0 pool_way_,_whitehill_road_,_off_newmarket_road east 01223902088 cb58nt <dontknow> swimmingpool name abbey_pool_and_astroturf_pitch
-0 abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road
-0 abbey_pool_and_astroturf_pitch area east
-0 abbey_pool_and_astroturf_pitch phone 01223902088
-0 abbey_pool_and_astroturf_pitch postcode cb58nt
-0 abbey_pool_and_astroturf_pitch pricerange <dontknow>
-0 abbey_pool_and_astroturf_pitch type swimmingpool
-0 heidelberg_gardens_,_lion_yard centre 01223364222 cb23na moderate nightclub name ballare
-0 ballare address heidelberg_gardens_,_lion_yard
-0 ballare area centre
-0 ballare phone 01223364222
-0 ballare postcode cb23na
-0 ballare pricerange moderate
-0 ballare type nightclub
-0 14_king_'_s_parade south 01223464646 cb21sj free museum name byard_art
-0 byard_art address 14_king_'_s_parade
-0 byard_art area south
-0 byard_art phone 01223464646
-0 byard_art postcode cb21sj
-0 byard_art pricerange free
-0 byard_art type museum
 1 hello. can you help me find the address of byard_art ?	byard_art is in the south , and is located on 14_king_'_s_parade .	['byard_art', "14_king_'_s_parade", 'south']
 
 #attraction#
@@ -2798,58 +2383,6 @@
 0 byard_art postcode cb21sj
 0 byard_art pricerange free
 0 byard_art type museum
-1 hello. can you help me find the address of broughton_house_gallery ?	broughton_house_gallery is in the centre , and is located on 98_king_street .	['broughton_house_gallery', '98_king_street', 'centre']
-
-#attraction#
-0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
-0 broughton_house_gallery address 98_king_street
-0 broughton_house_gallery area centre
-0 broughton_house_gallery phone 01223314960
-0 broughton_house_gallery postcode cb11ln
-0 broughton_house_gallery pricerange free
-0 broughton_house_gallery type museum
-0 jesus_lane centre 01223452587 cb58bs free architecture name all_saints_church
-0 all_saints_church address jesus_lane
-0 all_saints_church area centre
-0 all_saints_church phone 01223452587
-0 all_saints_church postcode cb58bs
-0 all_saints_church pricerange free
-0 all_saints_church type architecture
-0 park_street centre 01223300085 cb58as <dontknow> theatre name adc_theatre
-0 adc_theatre address park_street
-0 adc_theatre area centre
-0 adc_theatre phone 01223300085
-0 adc_theatre postcode cb58as
-0 adc_theatre pricerange <dontknow>
-0 adc_theatre type theatre
-0 trumpington_street centre 01223332900 cb21rb free museum name the_fitzwilliam_museum
-0 the_fitzwilliam_museum address trumpington_street
-0 the_fitzwilliam_museum area centre
-0 the_fitzwilliam_museum phone 01223332900
-0 the_fitzwilliam_museum postcode cb21rb
-0 the_fitzwilliam_museum pricerange free
-0 the_fitzwilliam_museum type museum
-0 pool_way_,_whitehill_road_,_off_newmarket_road east 01223902088 cb58nt <dontknow> swimmingpool name abbey_pool_and_astroturf_pitch
-0 abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road
-0 abbey_pool_and_astroturf_pitch area east
-0 abbey_pool_and_astroturf_pitch phone 01223902088
-0 abbey_pool_and_astroturf_pitch postcode cb58nt
-0 abbey_pool_and_astroturf_pitch pricerange <dontknow>
-0 abbey_pool_and_astroturf_pitch type swimmingpool
-0 heidelberg_gardens_,_lion_yard centre 01223364222 cb23na moderate nightclub name ballare
-0 ballare address heidelberg_gardens_,_lion_yard
-0 ballare area centre
-0 ballare phone 01223364222
-0 ballare postcode cb23na
-0 ballare pricerange moderate
-0 ballare type nightclub
-0 14_king_'_s_parade south 01223464646 cb21sj free museum name byard_art
-0 byard_art address 14_king_'_s_parade
-0 byard_art area south
-0 byard_art phone 01223464646
-0 byard_art postcode cb21sj
-0 byard_art pricerange free
-0 byard_art type museum
 1 i am trying to find abbey_pool_and_astroturf_pitch .	abbey_pool_and_astroturf_pitch is in the east , and is located on pool_way_,_whitehill_road_,_off_newmarket_road .	['abbey_pool_and_astroturf_pitch', 'pool_way_,_whitehill_road_,_off_newmarket_road', 'east']
 
 #attraction#
@@ -3059,55 +2592,3 @@
 0 byard_art pricerange free
 0 byard_art type museum
 1 i am trying to find all_saints_church .	all_saints_church is in the centre , and is located on jesus_lane .	['all_saints_church', 'jesus_lane', 'centre']
-
-#attraction#
-0 98_king_street centre 01223314960 cb11ln free museum name broughton_house_gallery
-0 broughton_house_gallery address 98_king_street
-0 broughton_house_gallery area centre
-0 broughton_house_gallery phone 01223314960
-0 broughton_house_gallery postcode cb11ln
-0 broughton_house_gallery pricerange free
-0 broughton_house_gallery type museum
-0 jesus_lane centre 01223452587 cb58bs free architecture name all_saints_church
-0 all_saints_church address jesus_lane
-0 all_saints_church area centre
-0 all_saints_church phone 01223452587
-0 all_saints_church postcode cb58bs
-0 all_saints_church pricerange free
-0 all_saints_church type architecture
-0 park_street centre 01223300085 cb58as <dontknow> theatre name adc_theatre
-0 adc_theatre address park_street
-0 adc_theatre area centre
-0 adc_theatre phone 01223300085
-0 adc_theatre postcode cb58as
-0 adc_theatre pricerange <dontknow>
-0 adc_theatre type theatre
-0 trumpington_street centre 01223332900 cb21rb free museum name the_fitzwilliam_museum
-0 the_fitzwilliam_museum address trumpington_street
-0 the_fitzwilliam_museum area centre
-0 the_fitzwilliam_museum phone 01223332900
-0 the_fitzwilliam_museum postcode cb21rb
-0 the_fitzwilliam_museum pricerange free
-0 the_fitzwilliam_museum type museum
-0 pool_way_,_whitehill_road_,_off_newmarket_road east 01223902088 cb58nt <dontknow> swimmingpool name abbey_pool_and_astroturf_pitch
-0 abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road
-0 abbey_pool_and_astroturf_pitch area east
-0 abbey_pool_and_astroturf_pitch phone 01223902088
-0 abbey_pool_and_astroturf_pitch postcode cb58nt
-0 abbey_pool_and_astroturf_pitch pricerange <dontknow>
-0 abbey_pool_and_astroturf_pitch type swimmingpool
-0 heidelberg_gardens_,_lion_yard centre 01223364222 cb23na moderate nightclub name ballare
-0 ballare address heidelberg_gardens_,_lion_yard
-0 ballare area centre
-0 ballare phone 01223364222
-0 ballare postcode cb23na
-0 ballare pricerange moderate
-0 ballare type nightclub
-0 14_king_'_s_parade south 01223464646 cb21sj free museum name byard_art
-0 byard_art address 14_king_'_s_parade
-0 byard_art area south
-0 byard_art phone 01223464646
-0 byard_art postcode cb21sj
-0 byard_art pricerange free
-0 byard_art type museum
-1 i am trying to find broughton_house_gallery .	broughton_house_gallery is in the centre , and is located on 98_king_street .	['broughton_house_gallery', '98_king_street', 'centre']

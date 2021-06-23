@@ -4,7 +4,7 @@ import sys
 
 # for reproducibility (test examples will be random)
 RANDOM_SEED = 42
-MAX_NUM_ALTERNATIVES_PER_TRAINING_EXAMPLE = 6
+MAX_NUM_ALTERNATIVES_PER_TRAINING_EXAMPLE = 5
 np.random.seed(RANDOM_SEED)
 
 #entities_kvr = json.load(open('data/KVR/kvret_entities.json'))
