@@ -126,7 +126,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello ! i ' m looking for information on the_varsity_restaurant .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
+1 can you give me information on a restaurant called the_varsity_restaurant ?	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
