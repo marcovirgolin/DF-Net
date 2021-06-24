@@ -572,8 +572,8 @@
 0 football_activity date thursday
 0 lab_appointment time 11am
 0 lab_appointment date friday
-0 taking medicine time 1pm
-0 taking medicine date friday
+0 taking_medicine time 1pm
+0 taking_medicine date friday
 0 meeting time 7pm
 0 meeting date monday
 0 meeting party sales_team
@@ -595,8 +595,8 @@
 0 football_activity date thursday
 0 lab_appointment time 11am
 0 lab_appointment date friday
-0 taking medicine time 1pm
-0 taking medicine date friday
+0 taking_medicine time 1pm
+0 taking_medicine date friday
 0 meeting time 7pm
 0 meeting date monday
 0 meeting party sales_team
@@ -618,8 +618,8 @@
 0 football_activity date thursday
 0 lab_appointment time 11am
 0 lab_appointment date friday
-0 taking medicine time 1pm
-0 taking medicine date friday
+0 taking_medicine time 1pm
+0 taking_medicine date friday
 0 meeting time 7pm
 0 meeting date monday
 0 meeting party sales_team

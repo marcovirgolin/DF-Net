@@ -61,7 +61,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on 82_cherry_hinton_road_cherry_hinton .	It is a expensive price restaurant offering chinese cuisine .	['expensive', 'restaurant', 'chinese']
+1 i am looking for a particular restaurant called 82_cherry_hinton_road_cherry_hinton .	It is a expensive price restaurant offering chinese cuisine .	['expensive', 'restaurant', 'chinese']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -126,7 +126,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
+1 i am looking for a particular restaurant called 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -191,7 +191,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on regent_street_city_centre .	It is a cheap price restaurant offering italian cuisine .	['cheap', 'restaurant', 'italian']
+1 i am looking for a particular restaurant called regent_street_city_centre .	It is a cheap price restaurant offering italian cuisine .	['cheap', 'restaurant', 'italian']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -256,7 +256,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on 106_regent_street_city_centre .	It is a expensive price restaurant offering indian cuisine .	['expensive', 'restaurant', 'indian']
+1 i am looking for a particular restaurant called 106_regent_street_city_centre .	It is a expensive price restaurant offering indian cuisine .	['expensive', 'restaurant', 'indian']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -321,7 +321,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 i am looking for information on g4_cambridge_leisure_park_clifton_way_cherry_hinton .	It is a moderate price restaurant offering italian cuisine .	['moderate', 'restaurant', 'italian']
+1 i am looking for a particular restaurant called g4_cambridge_leisure_park_clifton_way_cherry_hinton .	It is a moderate price restaurant offering italian cuisine .	['moderate', 'restaurant', 'italian']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -386,7 +386,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on regent_street_city_centre .	It is a cheap price restaurant offering italian cuisine .	['cheap', 'restaurant', 'italian']
+1 hello ! i ' m looking for information on regent_street_city_centre .	It is a cheap price restaurant offering italian cuisine .	['cheap', 'restaurant', 'italian']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -451,7 +451,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on 82_cherry_hinton_road_cherry_hinton .	It is a expensive price restaurant offering chinese cuisine .	['expensive', 'restaurant', 'chinese']
+1 hello ! i ' m looking for information on 82_cherry_hinton_road_cherry_hinton .	It is a expensive price restaurant offering chinese cuisine .	['expensive', 'restaurant', 'chinese']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -516,7 +516,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on finders_corner_newmarket_road .	It is a cheap price restaurant offering international cuisine .	['cheap', 'restaurant', 'international']
+1 hello ! i ' m looking for information on finders_corner_newmarket_road .	It is a cheap price restaurant offering international cuisine .	['cheap', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -581,7 +581,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on 106_regent_street_city_centre .	It is a expensive price restaurant offering indian cuisine .	['expensive', 'restaurant', 'indian']
+1 hello ! i ' m looking for information on 106_regent_street_city_centre .	It is a expensive price restaurant offering indian cuisine .	['expensive', 'restaurant', 'indian']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -646,7 +646,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 hello , i am looking for information on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
+1 hello ! i ' m looking for information on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -711,7 +711,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on 82_cherry_hinton_road_cherry_hinton .	It is a expensive price restaurant offering chinese cuisine .	['expensive', 'restaurant', 'chinese']
+1 I ' m looking for some info on 82_cherry_hinton_road_cherry_hinton .	It is a expensive price restaurant offering chinese cuisine .	['expensive', 'restaurant', 'chinese']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -776,7 +776,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
+1 I ' m looking for some info on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -841,7 +841,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
+1 I ' m looking for some info on 35_saint_andrews_street_city_centre .	It is a moderate price restaurant offering international cuisine .	['moderate', 'restaurant', 'international']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -906,7 +906,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on regent_street_city_centre .	It is a cheap price restaurant offering italian cuisine .	['cheap', 'restaurant', 'italian']
+1 I ' m looking for some info on regent_street_city_centre .	It is a cheap price restaurant offering italian cuisine .	['cheap', 'restaurant', 'italian']
 
 #restaurant#
 0 82_cherry_hinton_road_cherry_hinton south chinese 01223244149 cb17ag expensive restaurant 1eb89a0f name the_good_luck_chinese_food_takeaway
@@ -971,7 +971,7 @@
 0 the_varsity_restaurant pricerange moderate
 0 the_varsity_restaurant type restaurant
 0 the_varsity_restaurant ref 1eb89a0f
-1 I ' m looking for some information on finders_corner_newmarket_road .	It is a cheap price restaurant offering international cuisine .	['cheap', 'restaurant', 'international']
+1 I ' m looking for some info on finders_corner_newmarket_road .	It is a cheap price restaurant offering international cuisine .	['cheap', 'restaurant', 'international']
 
 #hotel#
 0 732-734_newmarket_road east 01223292094 cb58rs moderate 2_star guesthouse u0jt0yz8 name leverton_house
