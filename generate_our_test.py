@@ -78,7 +78,7 @@ def generate_alternatives_restaurant(orig_kb_lines, entities_in_use, utterances)
         if kb_line[0] == restaurant_name:
             continue
         else:
-            alt_name = kb_line[0]
+            alt_name = kb_line[-1]
             alt_location_type = kb_line[6]
             alt_cousine = kb_line[2]
             alt_price = kb_line[5]
