@@ -136,7 +136,7 @@ def generate_memory(sent, speaker, time):
     return sent_new
 
 
-def prepare_data_seq(batch_size=100):
+def prepare_data_seq(batch_size=100, use_our_test=False):
     file_train = 'data/MULTIWOZ2.1/train.txt'
     file_dev = 'data/MULTIWOZ2.1/dev.txt'
     #file_test = 'data/MULTIWOZ2.1/test.txt'

@@ -148,11 +148,12 @@ def generate_memory(sent, speaker, time):
     return sent_new
 
 
-def prepare_data_seq(batch_size=100):
+def prepare_data_seq(batch_size=100, use_our_test=False):
     file_train = 'data/KVR/train.txt'
     file_dev = 'data/KVR/dev.txt'
-    #file_test = 'data/KVR/test.txt'
-    file_test = 'data/KVR/our_test.txt'
+    file_test = 'data/KVR/test.txt'
+    if use_our_test:
+        file_test = 'data/KVR/our_test.txt'
 
 
 

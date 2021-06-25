@@ -26,7 +26,7 @@ else:
 # Configure models and load data
 if args['epoch'] > 0:
     avg_best, cnt, res = 0.0, 0, 0.0
-    train, dev, test, testOOV, lang, max_resp_len = prepare_data_seq(batch_size=int(args['batch']))
+    train, dev, test, testOOV, lang, max_resp_len = prepare_data_seq(batch_size=int(args['batch']), use_our_test=args['ourTest'])
     model = globals()['DFNet'](
         int(args['hidden']),
         lang,
@@ -57,7 +57,7 @@ if args['epoch'] > 0:
                 break
 
 # Testing
-train, dev, test, testOOV, lang, max_resp_len = prepare_data_seq(batch_size=int(args['batch']))
+train, dev, test, testOOV, lang, max_resp_len = prepare_data_seq(batch_size=int(args['batch']), use_our_test=args['ourTest'])
 
 model = globals()['DFNet'](
     int(args['hidden']),
