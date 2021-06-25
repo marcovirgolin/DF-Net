@@ -36,6 +36,7 @@ parser.add_argument('-es', '--earlyStop', help='Early Stop Criteria, BLEU or ENT
 parser.add_argument('-rec', '--record', help='use record function during inference', type=int, required=False,
                     default=1)
 parser.add_argument('-op', '--output', help='output file', required=False, default='output.log')
+parser.add_argument('-ourtest', '--ourTest', help='Use our test sets KVR\' and MWOZ\'', required=False, type=bool, default=False)
 
 args = vars(parser.parse_args())
 print(str(args))
