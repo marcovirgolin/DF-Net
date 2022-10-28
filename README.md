@@ -1,7 +1,23 @@
 # Experiments on deep neural networks for task-oriented conversational agents
 
 This fork is based on the work *Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog* by Qin et al. 2020. Please refer to the original repository for information on that paper.
-I used this codebase to carry out further experiments, some of which are meant to benchmark a different type of conversational agent (not neural network-based).
+I used this codebase to carry out further experiments for our paper:
+
+```
+@article{WahdeVirgolin2022DAISY,
+  author = {Mattias Wahde and Marco Virgolin},
+  title = {DAISY: An Implementation of Five Core Principles for Transparent and Accountable Conversational AI},
+  journal = {International Journal of Human–Computer Interaction},
+  volume = {0},
+  number = {0},
+  pages = {1-18},
+  year  = {2022},
+  publisher = {Taylor & Francis},
+  doi = {10.1080/10447318.2022.2081762},
+  URL = {https://doi.org/10.1080/10447318.2022.2081762},
+  eprint = {https://doi.org/10.1080/10447318.2022.2081762}
+}
+```
 
 ## Changes included here
 Changes include:
